@@ -1,5 +1,7 @@
 # sheetmusic
 
+しっくりきていない部分があるので時々書き換えます。そういう意味では私が死んだ時が最終版（完成）ということに ;)
+
 ### PianoSoloNo1Dmajor.pdf
 ピアノ独奏曲1番／ニ長調 「ライラックの咲く湖」Piano Solo No.1/D-major/Lakeside with bloom of lilas.
 - 難易度：☆☆（初級・ブルグミュラー終了程度）
