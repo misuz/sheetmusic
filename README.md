@@ -8,7 +8,7 @@
 - 1990年頃の作曲
 - 難易度：☆☆（初級・ブルグミュラー程度）
 - 可憐で壮大なイメージ。
-- 大学時代に行った、ある湖畔の風景。
+- 大学生時代に行った、ある湖畔の風景から。
 
 
 ### [PianoSoloNo3WaltzEmoll.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo3WaltzEmoll.pdf)
