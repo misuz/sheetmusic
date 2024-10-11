@@ -1,7 +1,8 @@
 # 楽譜 sheetmusic
 
 - しっくりきていない部分があるので時々書き換えます。そういう意味では私が死んだ時が最終版（完成）ということに ;)
-- .sdxの拡張子は[KAWAIのスコアメーカーZERO](https://cm.kawai.jp/products/smz/)で読み込むことができます。KAWAIさんありがとう。
+- .sdxの拡張子は[KAWAIのスコアメーカーZERO](https://cm.kawai.jp/products/smz/)で読み込むことができます。KAWAIさんありがとうございます。
+- コードネームは適当。独学なのでたぶん間違っていると思います。
 
 ### [PianoSoloNo1Dmajor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo1Dmajor.pdf)
 ピアノ独奏曲1番／ニ長調 「ライラックの咲く湖」Piano Solo No.1/D-major/Lakeside with bloom of lilas.
