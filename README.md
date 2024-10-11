@@ -7,7 +7,7 @@
 ピアノ独奏曲1番／ニ長調 「ライラックの咲く湖」Piano Solo No.1/D-major/Lakeside with bloom of lilas.
 - 難易度：☆☆（初級・ブルグミュラー終了程度）
 - 可憐で壮大なイメージ。
-- 大学時代によく行った、ある湖畔の風景より。
+- 大学時代に行った、ある湖畔の風景。
 
 ### PianoSoloNo3WaltzEmoll.pdf
 
