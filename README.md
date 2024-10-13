@@ -9,7 +9,6 @@
 - 1990年頃の作曲
 - 難易度：☆☆（初級・ブルグミュラー程度）
 - 可憐で壮大なイメージ。
-- 大学生時代に行った、ある湖畔の風景から。
 
 
 ### [PianoSoloNo3WaltzEmoll.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo3WaltzEmoll.pdf)
@@ -19,3 +18,10 @@
 - 某ドラマのラストシーンのイメージで作った曲です。
 - 天国で再会した二人がラベンダーの草原で躍るワルツ。悲しげですがハッピーエンドの曲です。
 
+
+### [PianoSoloNo4Passacalia.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo4Passacalia.pdf)
+ピアノ独奏曲4番／パッサカリア　変ニ長調・変ロ短調「海風とネモフィラ」 Piano Solo No.4/D-flat-major,B-flat-minor/Nemophila grassland in the sea breeze.
+- 2024年作曲
+- 難易度：☆☆（初級・ブルグミュラー程度）
+- 海風の中にどこまでも広がるネモフィラの草原。小さな花が無限に繰り返すイメージ。
+- これも踊れる曲です。
