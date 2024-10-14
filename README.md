@@ -23,4 +23,4 @@
 ピアノ独奏曲4番／パッサカリア　変ニ長調・変ロ短調「海風とネモフィラの草原」 Piano Solo No.4/D-flat-major,B-flat-minor/Nemophila grassland in the sea breeze.
 - 2024年作曲
 - 難易度：☆☆（初級・ブルグミュラー程度）
-- 小品。
+- 平行調の単調と長調を交互に繰り返す。小品。
