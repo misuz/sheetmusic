@@ -13,7 +13,7 @@
 ### PianoSoloNo2Dmajor
 ピアノ独奏曲2番／ニ長調
 - 2005年作曲
-- あるソフトウェアのBGMとして組み込まれています。
+- あるソフトウェアのBGMとして組み込まれていました。
 - 採譜未了のため未公開。
 
 ### [PianoSoloNo3WaltzEmoll.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo3WaltzEmoll.pdf)
