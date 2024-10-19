@@ -5,7 +5,7 @@
 - コードネームは適当。独学なのでたぶん間違っていると思います。
 
 ### [PianoSoloNo1Dmajor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo1Dmajor.pdf)
-ピアノ独奏曲1番／ニ長調 「ライラックの咲く湖」Piano Solo No.1/D-major/Lakeside with bloom of lilas.
+ピアノ独奏曲1番／ニ長調 「リラの咲く湖」Piano Solo No.1/D-major/Lakeside with bloom of lilas.
 - 1990年頃の作曲
 - 難易度：☆☆（初級・ブルグミュラー程度）
 - 可憐で壮大なイメージ。
