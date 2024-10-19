@@ -10,6 +10,11 @@
 - 難易度：☆☆（初級・ブルグミュラー程度）
 - 可憐で壮大なイメージ。
 
+### PianoSoloNo2Dmajor
+ピアノ独奏曲2番／ニ長調
+- 2005年作曲
+- あるソフトウェアのBGMとして組み込まれています。
+- 採譜未了のため未公開。
 
 ### [PianoSoloNo3WaltzEmoll.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo3WaltzEmoll.pdf)
 ピアノ独奏曲3番／ワルツ ホ短調「ラベンダーフィールドの約束」Piano Solo No.3/E-moll/A promise in the lavender field.
