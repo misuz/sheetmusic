@@ -30,3 +30,10 @@
 - 難易度：☆☆（初級・ブルグミュラー程度）
 - バロック調なのでパイプオルガンで。短い曲。
 - ダルセーニョのたびに半音ずつ上げていき12調全部弾くとハノンの代わりになりとても指の訓練になりますのでどうぞ笑
+
+
+### [PianoSoloNo5Csharpminor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo5Csharpminor.pdf)
+ピアノ独奏曲5番／嬰ハ短調「レインリリーの森」 Piano Solo No.5/C-sharp-moll/Forest of Rainlily.
+- 2024年作曲
+- 難易度：☆☆（初級・ブルグミュラー程度）
+- 静かな森のイメージ。レインリリーは雨の後に一斉に白い花を咲かせる。
