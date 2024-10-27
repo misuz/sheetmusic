@@ -36,6 +36,6 @@
 ### [PianoSoloNo5Csharpminor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo5Csharpminor.pdf)
 ピアノ独奏曲5番／嬰ハ短調「レインリリーの森」 Piano Solo No.5/C-sharp-moll/Forest of Rainlily.
 - 2024年作曲
-- 難易度：☆☆☆（中級・ソタチネ程度・オクターブ多用するので少し難しい）
+- 難易度：☆☆☆（中級・ソナチネ程度・オクターブ多用するので少し難しい）
 - 静かな森のイメージ。レインリリーは雨の後に一斉にユリに似た白い花を咲かせる。
 - レインリリーの花言葉は「けがれなき愛」。（別名：ゼフィランサス、和名：タマスダレ）
