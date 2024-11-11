@@ -36,7 +36,7 @@
 - ネモフィラの花言葉は「可憐」「あなたを許す」。
 
 ### [PianoSoloNo5Csharpminor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo5Csharpminor.pdf)
-ピアノ独奏曲5番／嬰ハ短調「レインリリーの森」 Piano Solo No.5/C-sharp-moll/Forest of Rainlily.
+ピアノ独奏曲5番／嬰ハ短調「レインリリーの森」 Piano Solo No.5/C-sharp-minor/Forest of Rainlily.
 - 2024年作曲
 - 難易度：☆☆☆（中初級・ソナチネ程度・オクターブ多用するので少し難しい）
 - 嬰ハ短調は12調の中で最も暗い、陰鬱、悲しい響きとされこれを主調とする曲はとても少ないとのことですがショパンが好んで使っています。ピアノのレッスンでショパンのワルツ7番嬰ハ短調Op.64-2を教わり、物悲しい響きが気に入ったので忘れないうちに一曲と思って作りました。
