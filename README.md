@@ -3,8 +3,8 @@
 - しっくりきていない部分があるので時々書き換えます。そういう意味では私が死んだ時が最終版（完成）ということに。
 - .sdxの拡張子は[KAWAIのスコアメーカーZERO](https://cm.kawai.jp/products/smz/)で読み込むことができます。KAWAIさんありがとうございます。
 - コードネームは適当。独学なのでたぶん間違っていると思います。スコアメーカーZEROで自動的にアテられるところはアテました。
-- JASRAC未登録です。比較的初級者で弾けますが聴き映えする曲だと思いますのでピアノ発表会などで自由にご利用ください。無料でご利用いただけます。商用利用も可ですが念のためご連絡ください。<m.suzawa+sheetmusic@gmail.com>
-- 模範演奏を載せたいのですが模範になるほど演奏が上手くないので演奏してくれる方募集…
+- JASRAC未登録ですので許諾不要です。比較的初級者で弾けますが弾き映えする曲だと思いますのでピアノ発表会などで自由にご利用ください。商用利用も可ですが商用の場合は念のためご連絡ください。<m.suzawa+sheetmusic@gmail.com>
+
 
 ### [PianoSoloNo1Dmajor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo1Dmajor.pdf)
 ピアノ独奏曲1番／ニ長調 「リラの咲く湖」Piano Solo No.1/D-major/Lakeside with bloom of lilas.
