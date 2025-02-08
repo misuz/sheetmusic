@@ -17,6 +17,7 @@
 ### [PianoSoloNo2Dmajor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo2Dmajor.pdf)
 ピアノ独奏曲2番／ニ長調 「フクシアの耳飾り」 Piano Solo No.2/D-major/Earrings of Fuchsia.
 - 2005年作曲
+- 難易度：☆☆（初級・ブルグミュラー程度）
 - あるソフトウェアのBGMとして組み込まれていました。
 - フクシア（フューシャ）はフューシャピンクという色の名称にもなっている通り、鮮やかなえんじ色に近いピンクの花。
 - 花の形がイヤリングに似ていることから、幼い子供達が耳飾りにして遊んだといわれています。上品で穏やかで平和な可愛らしい曲です。
