@@ -12,7 +12,7 @@
 - 1990年頃の作曲
 - 難易度：☆☆（初級・ブルグミュラー程度）
 - 可憐で壮大なイメージ。
-- リラはライラックのフランス語読み。ライラックの花言葉は「思い出」「友情」。北海道に咲く花。香りか好き。
+- リラはライラックの別名。ライラックの花言葉は「思い出」「友情」。北海道に咲く花。香りか好き。
 
 ### [PianoSoloNo2Dmajor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo2Dmajor.pdf)
 ピアノ独奏曲2番／ニ長調 「フクシアの耳飾り」 Piano Solo No.2/D-major/Earrings of Fuchsia.
