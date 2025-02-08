@@ -20,7 +20,7 @@
 - あるソフトウェアのBGMとして組み込まれていました。
 - フクシア（フューシャ）はフューシャピンクという色の名称にもなっている通り、鮮やかなえんじ色に近いピンクの花。
 - 花の形がイヤリングに似ていることから、幼い子供達が耳飾りにして遊んだといわれています。上品で穏やかで平和な可愛らしい曲です。
-- フクシアの花言葉は「つつましい愛」「上品な様子」
+- フクシアの花言葉は「つつましい愛」「上品」
 
 ### [PianoSoloNo3WaltzEmoll.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo3WaltzEmoll.pdf)
 ピアノ独奏曲3番／ワルツ ホ短調「ラベンダーフィールドの約束」Piano Solo No.3/E-moll/A promise in the lavender field.
