@@ -14,11 +14,13 @@
 - 可憐で壮大なイメージ。
 - リラはライラックのフランス語読み。ライラックの花言葉は「思い出」「友情」。北海道に咲く花。香りか好き。
 
-### PianoSoloNo2Dmajor
-ピアノ独奏曲2番／ニ長調
+### [PianoSoloNo2Dmajor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo2Dmajor.pdf)
+ピアノ独奏曲2番／ニ長調 「フクシアの耳飾り」 Piano Solo No.2/D-major/Earrings of Fuchsia.
 - 2005年作曲
 - あるソフトウェアのBGMとして組み込まれていました。
-- 採譜未了のため未公開。
+- フクシア（フューシャ）はフューシャピンクという色の名称にもなっている通り、鮮やかなえんじ色に近いピンクの花。
+- 花の形がイヤリングに似ていることから、幼い子供達が耳飾りにして遊んだといわれています。上品で穏やかで平和な可愛らしい曲です。
+- フクシアの花言葉は「つつましい愛」「上品な様子」
 
 ### [PianoSoloNo3WaltzEmoll.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo3WaltzEmoll.pdf)
 ピアノ独奏曲3番／ワルツ ホ短調「ラベンダーフィールドの約束」Piano Solo No.3/E-moll/A promise in the lavender field.
