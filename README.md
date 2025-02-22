@@ -27,10 +27,9 @@
 ### [PianoSoloNo3WaltzEmoll.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo3WaltzEmoll.pdf)
 ピアノ独奏曲3番／ワルツ ホ短調「ラベンダーフィールドの約束」Piano Solo No.3/E-moll/A promise in the lavender field.
 - 2024年作曲
-- 難易度：☆☆（初級・ブルグミュラー程度）
+- 難易度：☆☆（初級・ブルグミュラー程度）中間部がやや難しいので弾けない音は省略しても良いと思います。
 - 2024年にヒットしたドラマ「涙の女王」のラストシーンのイメージで作った曲です。
-- 天国で再会した二人がラベンダーの草原で躍るワルツ。難病で生死をさまよった彼女は、どちらか先に死んだほうは残されたほうが死ぬときに必ず迎えに来てね、そうすれば死も怖くないから、という約束をしていた。
-- 6度の和声メロディーが美しい曲です。
+- 天国で再会した二人がラベンダーの草原で躍るワルツ。難病で生死をさまよった彼女は、どちらか先に死んだほうは残されたほうが死ぬときに必ず迎えに来てね、そうすれば死も怖くないから、という約束をしていた。悲しげですがハッピーエンドの曲です。
 - ラベンダーの花言葉は「あなたを待っています」。
 
 ### [PianoSoloNo4Passacalia.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo4Passacalia.pdf)
@@ -38,7 +37,6 @@
 - 2024年作曲
 - 難易度：☆☆（初級・ブルグミュラー程度）
 - パイプオルガンが好きでパイプオルガン向きの曲を作ろうと思って作った曲。バロック調。パッサカリアはスペイン発祥の繰り返しの多い三拍子の舞踊曲。短い曲。
-- ダルセーニョのたびに半音ずつ上げていき12調全部弾くとハノンの代わりになりとても指の訓練になりますのでどうぞ。
 - ネモフィラの花言葉は「可憐」「あなたを許す」。
 
 ### [PianoSoloNo5Csharpminor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo5Csharpminor.pdf)
