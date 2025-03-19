@@ -32,7 +32,7 @@
 - 2024年にヒットしたドラマ「涙の女王」のラストシーンのイメージで作った曲です。
 - 天国で再会した二人がラベンダーの草原で躍るワルツ。難病で生死をさまよった彼女は、どちらか先に死んだほうは残されたほうが死ぬときに必ず迎えに来てね、そうすれば死も怖くないから、という約束をしていた。悲しげですがハッピーエンドの曲です。
 - ラベンダーの花言葉は「あなたを待っています」。
-- 6度の和声メロディーが美しい曲です。
+- 6度の和声メロディーが美しい曲です。バイオリン（ソロまたは多重奏）にも向いている曲です。
 
 ### [PianoSoloNo4Passacalia.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo4Passacalia.pdf)
 ピアノ(オルガン)独奏曲4番／パッサカリア　変ニ長調・変ロ短調「海風とネモフィラの草原」 Piano Solo No.4/D-flat-major,B-flat-minor/Nemophila grassland in the sea breeze.
