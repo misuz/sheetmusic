@@ -51,9 +51,10 @@
 - この曲をテーマにした短編小説があります。[レインリリーの咲く日に](https://note.com/seewheniseeyou/n/n96d4a6aaf813?sub_rt=share_pw)
 - [作曲者自身によるヘタクソな演奏をどうぞ（笑）:Drz](https://www.facebook.com/share/v/1E6sPSCfMD/)
 
-### PianoSoloNo6Emoll
+### PianoSoloNo6Emoll.pdf（採譜準備中のため未公開）
 ピアノ独奏曲6番／ホ短調「風の中のスターチス」　Piano Solo No.6/E-moll/Startice blooming in the wind.
-- 2025年作曲 未採譜のため未公開
+- 2025年作曲
 - 難易度：☆☆☆☆（中級）
-- かっこいい曲です。
+- かっこいい曲です。ゲーム音楽っぽい感じも…
+- スターチスは青や紫の小さな花をたくさんつけ、その華やかさから花束の素材としてとても人気があります。とても丈夫な花で風に吹かれても散らずにいつまでも咲き続ける強さがあります。
 - スターチスの花言葉は「変わらぬ心」「永久不変」「途絶えぬ記憶」「永遠の愛」
