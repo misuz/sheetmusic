@@ -5,6 +5,7 @@
 - .sdxの拡張子は[KAWAIのスコアメーカーZERO](https://cm.kawai.jp/products/smz/)で読み込むことができます。KAWAIさんありがとうございます。
 - コードネームは適当。独学なのでたぶん間違っていると思います。スコアメーカーZEROで自動的にアテられるところはアテました。
 - JASRAC未登録ですので許諾不要です。比較的初級者で弾けますが弾き映えする曲だと思いますのでピアノ発表会などで無償で自由にご利用ください。
+- 実際にピアノを弾きながら作曲しているので、作曲当時の私の演奏技量に応じた編曲になっています。つまり後半へ行くほど演奏の難易度は上がります。
 
 
 ### [PianoSoloNo1Dmajor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo1Dmajor.pdf)
