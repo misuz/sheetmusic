@@ -52,6 +52,9 @@
 - この曲をテーマにした短編小説があります。[レインリリーの咲く日に](https://note.com/seewheniseeyou/n/n96d4a6aaf813?sub_rt=share_pw)
 - [作曲者自身によるヘタクソな演奏をどうぞ（笑）:Drz](https://www.facebook.com/share/v/1E6sPSCfMD/)
 
+![レインリリーの森](forestofrainlily.jpg)
+ 
+
 ### PianoSoloNo6Emoll.pdf（採譜準備中のため未公開）
 ピアノ独奏曲6番／ホ短調「風の丘のスターチス」　Piano Solo No.6/E-moll/Startice blooming on the wind hills.
 - 2025年作曲
@@ -67,3 +70,5 @@
 - 古典派な感じのクラシックピアノ曲です。
 - クレマチス・アーマンディは蔓草の女王と言われ壁などに沿って育ち可憐な白い花をたくさん咲かせます。
 - クレマチス・アーマンディの花言葉は「精神の美、心の美しさ」「旅人の喜び」
+
+![クレマチス・アーマンディの城跡](castleruinsofclematisarmandii.jpg)
