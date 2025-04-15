@@ -56,7 +56,7 @@
  
 
 ### PianoSoloNo6Emoll.pdf（採譜準備中のため楽譜未公開、試奏動画のみ）
-ピアノ独奏曲6番／ホ短調「風の丘のスターチス」　Piano Solo No.6/E-moll/Startice blooming on the wind hills.
+ピアノ独奏曲6番／ホ短調「スターチスの丘」　Piano Solo No.6/E-moll/Statice blooming on the hills.
 - 2025年作曲
 - 難易度：☆☆☆（中級・かなり速弾きなのでやや難しい）
 - 短調ですがグルーブ感のあるかっこいい曲です。ゲーム音楽っぽい感じもあり、運動会のBGMにも合いそう…
