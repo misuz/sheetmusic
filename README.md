@@ -55,20 +55,22 @@
 ![レインリリーの森](forestofrainlily.jpg)
  
 
-### PianoSoloNo6Emoll.pdf（採譜準備中のため未公開）
+### PianoSoloNo6Emoll.pdf（採譜準備中のため楽譜未公開、試奏動画のみ）
 ピアノ独奏曲6番／ホ短調「風の丘のスターチス」　Piano Solo No.6/E-moll/Startice blooming on the wind hills.
 - 2025年作曲
 - 難易度：☆☆☆（中級・かなり速弾きなのでやや難しい）
 - 短調ですがグルーブ感のあるかっこいい曲です。ゲーム音楽っぽい感じもあり、運動会のBGMにも合いそう…
 - スターチスは青や紫の小さな花をたくさんつけ、その華やかさから花束の素材としてとても人気があります。とても丈夫な花で風に吹かれても散らずにいつまでも咲き続ける強さがあります。
 - スターチスの花言葉は「変わらぬ心」「永久不変」「途絶えぬ記憶」「永遠の愛」
+- (試奏動画) 
 
-### PianoSoloNo7Fismoll.pdf（採譜準備中のため未公開）
+### PianoSoloNo7Fismoll.pdf（採譜準備中のため楽譜未公開、試奏動画のみ）
 ピアノ独奏曲7番／嬰ヘ短調「クレマチス・アーマンディの城跡」　Piano Solo No.7/Fis-moll/Castle ruins covered with Clematis armandii.
 - 2025年作曲
 - 難易度：☆☆☆（中級・本来はかなり速弾きの曲ですがゆっくり弾いても良いです）
 - 古典派な感じのクラシックピアノ曲です。
 - クレマチス・アーマンディは蔓草の女王と言われ壁などに沿って育ち可憐な白い花をたくさん咲かせます。
 - クレマチス・アーマンディの花言葉は「精神の美、心の美しさ」「旅人の喜び」
+- (試奏動画) https://youtu.be/VTbn7NrRyXI
 
 ![クレマチス・アーマンディの城跡](castleruinsofclematisarmandii.jpg)
