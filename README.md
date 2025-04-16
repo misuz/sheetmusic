@@ -74,3 +74,7 @@
 - (試奏動画) https://youtu.be/VTbn7NrRyXI
 
 ![クレマチス・アーマンディの城跡](castleruinsofclematisarmandii.jpg)
+
+### おまけ（たまにはこういう曲も作ります）
+- 某アイドルグループに提供した楽曲のDEMO音源
+- https://youtu.be/Pf7Eg3K7PcA
