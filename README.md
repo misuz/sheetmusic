@@ -65,7 +65,7 @@
 - (試奏動画) https://youtu.be/rSId5xeR0qE
 
 ### [PianoSoloNo7Fismoll.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo7Fismoll.pdf)
-ピアノ独奏曲7番／嬰ヘ短調「クレマチス・アーマンディの城跡」　Piano Solo No.7/Fis-moll/Castle ruins covered with Clematis armandii.
+ピアノ独奏曲7番／嬰ヘ短調「クレマチス・アーマンディの城跡」　Piano Solo No.7/Fis-moll/Castle ruins with Clematis armandii.
 - 2025年作曲
 - 難易度：☆☆☆☆（中級・本来はかなり速弾きの曲ですがゆっくり弾いても良いです）
 - 古典派な感じのクラシックピアノ曲です。
