@@ -71,7 +71,7 @@
 - 古典派な感じのクラシックピアノ曲です。
 - クレマチス・アーマンディは蔓草の女王と言われ壁などに沿って育ち可憐な白い花をたくさん咲かせます。
 - クレマチス・アーマンディの花言葉は「精神の美、心の美しさ」「旅人の喜び」
-- (試奏動画) https://youtu.be/VTbn7NrRyXI
+- (試奏動画) https://youtu.be/gAcEBxImGkU 
 
 ![クレマチス・アーマンディの城跡](castleruinsofclematisarmandii.jpg)
 
