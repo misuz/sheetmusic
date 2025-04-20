@@ -45,7 +45,7 @@
 ### [PianoSoloNo5Csharpminor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo5Csharpminor.pdf)
 ピアノ独奏曲5番／嬰ハ短調「レインリリーの森」 Piano Solo No.5/C-sharp-minor/Forest of Rainlily.
 - 2024年作曲
-- 難易度：☆☆☆（中級・ソナチネ程度・オクターブ多用、ウナコルダ（左ペダル）多用するので少し難しい）
+- 難易度：☆☆☆（中初級・ソナチネ程度・オクターブ多用、ウナコルダ（左ペダル）多用するので少し難しい）
 - 嬰ハ短調は12調の中で最も暗い、陰鬱、悲しい響きとされこれを主調とする曲はとても少ないとのことですがベートーヴェンやショパンが好んで使っています。
 - 静かな森のイメージ。レインリリー（雨ユリ）は長い雨の後に一斉にユリに似た白い花を咲かせる。（正式名：ゼフィランサス、和名：タマスダレ。彼岸花の仲間で毒があります。）
 - レインリリーの花言葉は「けがれなき愛」「メッセージ」。
@@ -58,13 +58,13 @@
 ### PianoSoloNo6Emoll.pdf（採譜準備中のため楽譜未公開、試奏動画のみ）
 ピアノ独奏曲6番／ホ短調「スターチスの丘」　Piano Solo No.6/E-moll/Statice blooming on the hills.
 - 2025年作曲
-- 難易度：☆☆☆（中級・かなり速弾きなのでやや難しい）
+- 難易度：☆☆☆（中級）
 - 短調ですがグルーブ感のあるかっこいい曲です。ゲーム音楽っぽい感じもあり、運動会のBGMにも合いそう…
 - スターチスは青や紫の小さな花をたくさんつけ、その華やかさから花束の素材としてとても人気があります。とても丈夫な花で風に吹かれても散らずにいつまでも咲き続ける強さがあります。
 - スターチスの花言葉は「変わらぬ心」「永久不変」「途絶えぬ記憶」「永遠の愛」
 - (試奏動画) https://youtu.be/rSId5xeR0qE
 
-### PianoSoloNo7Fismoll.pdf（採譜準備中のため楽譜未公開、試奏動画のみ）
+### [PianoSoloNo7Fismoll.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo7Fismoll.pdf)
 ピアノ独奏曲7番／嬰ヘ短調「クレマチス・アーマンディの城跡」　Piano Solo No.7/Fis-moll/Castle ruins covered with Clematis armandii.
 - 2025年作曲
 - 難易度：☆☆☆（中級・本来はかなり速弾きの曲ですがゆっくり弾いても良いです）
