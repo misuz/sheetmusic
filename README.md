@@ -59,19 +59,21 @@
 ピアノ独奏曲6番／ホ短調「スターチスの丘」　Piano Solo No.6/E-moll/Statice blooming on the hills.
 - 2025年作曲
 - 難易度：☆☆☆（中級）
+- 楽譜は修正中なので暫定版です（DAWから出したまま）
 - 短調ですがグルーブ感のあるかっこいい曲です。ゲーム音楽っぽい感じもあり、運動会のBGMにも合いそう…
 - スターチスは青や紫の小さな花をたくさんつけ、その華やかさから花束の素材としてとても人気があります。とても丈夫な花で風に吹かれても散らずにいつまでも咲き続ける強さがあります。
 - スターチスの花言葉は「変わらぬ心」「永久不変」「途絶えぬ記憶」「永遠の愛」
-- (試奏動画) https://youtu.be/rSId5xeR0qE
+- (PC試奏動画) https://youtu.be/rSId5xeR0qE
 
 ### [PianoSoloNo7Fismoll.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo7Fismoll.pdf)
 ピアノ独奏曲7番／嬰ヘ短調「クレマチス・アーマンディの城跡」　Piano Solo No.7/Fis-moll/Castle ruins with Clematis armandii.
 - 2025年作曲
+- 楽譜は修正中なので暫定版です（DAWから出したまま）
 - 難易度：☆☆☆☆（中級・本来はかなり速弾きの曲ですがゆっくり弾いても良いです）
 - 古典派な感じのクラシックピアノ曲です。
 - クレマチス・アーマンディは蔓草の女王と言われ壁などに沿って育ち可憐な白い花をたくさん咲かせます。
 - クレマチス・アーマンディの花言葉は「精神の美、心の美しさ」「旅人の喜び」
-- (試奏動画) https://youtu.be/gAcEBxImGkU 
+- (PC試奏動画) https://youtu.be/gAcEBxImGkU 
 
 ![クレマチス・アーマンディの城跡](castleruinsofclematisarmandii.jpg)
 
