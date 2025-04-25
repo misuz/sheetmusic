@@ -68,8 +68,7 @@
 ### [PianoSoloNo7Fismoll.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo7Fismoll.pdf)
 ピアノ独奏曲7番／嬰ヘ短調「クレマチス・アーマンディの城跡」　Piano Solo No.7/Fis-moll/Castle ruins with Clematis armandii.
 - 2025年作曲
-- 楽譜は変奏曲に修正中なので暫定版です。
-- 難易度：☆☆☆☆（中級・本来はかなり速弾きの曲ですがゆっくり弾いても良いです）
+- 難易度：☆☆☆（中級・本来はかなり速弾きの曲ですがゆっくり弾いても良いです）
 - 古典派な感じのクラシックピアノ曲です。
 - クレマチス・アーマンディは蔓草の女王と言われ壁などに沿って育ち可憐な白い花をたくさん咲かせます。
 - クレマチス・アーマンディの花言葉は「精神の美、心の美しさ」「旅人の喜び」
