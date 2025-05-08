@@ -26,7 +26,7 @@
 - フクシアの花言葉は「つつましい愛」「上品」
 
 ### [PianoSoloNo3WaltzEmoll.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo3WaltzEmoll.pdf)
-ピアノ独奏曲3番／ワルツ ホ短調「ラベンダーフィールドの約束」Piano Solo No.3/E-moll/A promise in the lavender field.
+ピアノ独奏曲3番／ホ短調　ワルツ「ラベンダーフィールドの約束」Piano Solo No.3/E-moll/A promise in the lavender field.
 - 2024年作曲
 - 難易度：☆☆（初級・ブルグミュラー程度）中間部がやや難しいので弾けない音は省略しても良いと思います。
 - 2024年にヒットしたドラマ「涙の女王」のラストシーンのイメージで作った曲です。
