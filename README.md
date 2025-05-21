@@ -50,7 +50,7 @@
 - レインリリー（雨ユリ）は長い雨の後に一斉にユリに似た白い花を咲かせます。（正式名：ゼフィランサス、和名：タマスダレ、彼岸花の仲間）
 - レインリリーの花言葉は「けがれなき愛」。切ない響きの美しい曲です。
 - この曲をテーマにした短編小説があります。[レインリリーの咲く日に](https://note.com/seewheniseeyou/n/n96d4a6aaf813?sub_rt=share_pw)
-- [作曲者自身によるヘタクソな演奏をどうぞ（笑）:Drz](https://www.facebook.com/share/v/1EwM61WNy8/)
+- [作曲者自身によるヘタクソな演奏をどうぞ（笑）:Drz](https://www.facebook.com/share/v/1EwM61WNy8/) 初期の草稿アレンジなので楽譜と少し違います。
 - [高音質版（ヘタなのは変わらない）](https://www.facebook.com/share/v/1HYjNF98Uk/)
 ![レインリリーの森](forestofrainlily.jpg)
  
