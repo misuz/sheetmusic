@@ -76,6 +76,14 @@
 
 ![クレマチス・アーマンディの城跡](castleruinsofclematisarmandii.jpg)
 
+### [PianoSoloNo8Gdur.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo8Gdur.pdf)
+ピアノ独奏曲8番／ト長調「ウエストリンギアの庭」　Piano Solo No.8/G-dur/Gardens of Westringia.
+- 2025年作曲
+- クラシックから離れて、現代的な感じのピアノ曲です。
+- ウエストリンギアはオーストラリアの海岸に咲くローズマリーに似た低木で紫色や白色の可愛い花をつけます。とある公園の庭園にたくさん咲いていて印象深かったので曲にしました。
+- ウエストリンギアの花言葉は「真実の愛」
+
+
 ### おまけ（たまにはこういう曲も作ります）
 - 某アイドルグループに提供した楽曲のDEMO音源
 - アイドルの子が作詞した詞に合わせて作った曲ですので（非公開ですが）歌詞があります。
