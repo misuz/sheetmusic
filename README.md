@@ -54,7 +54,7 @@
 ![レインリリーの森](forestofrainlily.jpg)
  
 
-### PianoSoloNo6Emoll.pdf（採譜準備中のため楽譜未公開、試奏動画のみ）
+### [PianoSoloNo6Emoll.pdf](https://github.com/misuz/sheetmusic)（採譜準備中のため楽譜未公開、試奏動画のみ）
 ピアノ独奏曲6番／ホ短調「スターチスの丘」　Piano Solo No.6/E-moll/Statice blooming on the hills.
 - 2025年作曲
 - 難易度：☆☆☆☆（中級）
