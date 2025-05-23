@@ -76,11 +76,11 @@
 
 ![クレマチス・アーマンディの城跡](castleruinsofclematisarmandii.jpg)
 
-### [PianoSoloNo8Gmajor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo8Gmajor.pdf)
-ピアノ独奏曲8番／ト長調「ウエストリンギアの追想」　Piano Solo No.8/G-major/Reminiscence of Westringia.
+### [PianoSoloNo8Gminor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo8Gminor.pdf)
+ピアノ独奏曲8番／ト短調「ウエストリンギアの追想」　Piano Solo No.8/G-minor/Reminiscence of Westringia.
 - 2025年作曲
 - クラシックから離れて、現代的な感じのピアノ曲です。
-- ウエストリンギアはオーストラリアの海岸に咲くローズマリーに似た低木で紫色や白色の可愛い花をつけます。とある公園の庭園にたくさん咲いていて印象深かったので曲にしました。
+- ウエストリンギアはオーストラリアの海岸に咲くローズマリーに似た低木で紫色や白色の可愛い花をつけます。とある公園の庭園にたくさん咲いていて印象深かったので曲にしました。どことなく寂しさを感じさせる美しい曲です。
 - ウエストリンギアはローズマリーに似ていますが、香りがないことから、飾りのない誠実な、という意味が与えられています。花言葉は「真実の愛」「誠実な愛」
 
 
