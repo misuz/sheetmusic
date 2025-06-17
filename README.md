@@ -77,7 +77,7 @@
 ![クレマチス・アーマンディの城跡](castleruinsofclematisarmandii.jpg)
 
 ### [PianoSoloNo8Gdur.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo8Gdur.pdf)
-ピアノ独奏曲8番／ト長調「ウエストリンギアの花冠」　Piano Solo No.8/G-dur/A flower crown of Westringia.
+ピアノ独奏曲8番／ト長調「ウエストリンギアの花冠」　Piano Solo No.8/G-dur/A corolla of Westringia.
 - 2025年作曲
 - 難易度：☆☆☆（中初級）
 - ウエストリンギアはローズマリーに似ていますが、香りがまったくないことから「飾り気のない、誠実な」という意味を与えられています。ローズマリーのように円形に編み込んで花冠を作ることができます。
