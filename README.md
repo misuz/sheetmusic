@@ -74,7 +74,6 @@
 - クレマチス・アーマンディの花言葉は「精神の美、心の美しさ」
 - この曲をテーマにした短編小説があります。[クレマチス・アーマンディの記憶](https://note.com/seewheniseeyou/n/n89201a9525d0?sub_rt=share_pb)
 - (PC試奏動画)※初期の草稿段階のものを入力したので簡易版です。実際（楽譜）よりアレンジがシンプルになっています。 https://youtu.be/gAcEBxImGkU 
-
 ![クレマチス・アーマンディの城跡](castleruinsofclematisarmandii.jpg)
 
 ### [PianoSoloNo8Gdur.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo8Gdur.pdf)
