@@ -83,6 +83,7 @@
 - 寂しさと切なさを感じさせる穏やかで優しい曲です。クラシック感はなく現代風の曲で、ほとんどの部分がホ短調基調ですが最終的にはト長調で終わります。平行調の関係。
 - ウエストリンギアはローズマリーに似ていますが、香りがまったくないことから「飾り気のない、誠実な」という意味を与えられています。れんげ草のように円形に編み込んで花冠（カローラ）を作ることができます。
 - ウエストリンギアの花言葉は「真実の愛」
+- (PC試奏動画) https://youtu.be/jCEi-UmvFr8
 
 ### [PianoSoloNo9.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo9.pdf)
 ピアノ独奏曲9番／ワルツ「リナリアの咲く時」　Piano Solo No.9/When Linaria flowers bloom.
