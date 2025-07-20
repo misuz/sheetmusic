@@ -86,7 +86,7 @@
 - (PC試奏動画) https://youtu.be/jCEi-UmvFr8
 
 ### [PianoSoloNo9.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo9.pdf)
-ピアノ独奏曲9番／ワルツ「リナリアの咲く時」　Piano Solo No.9/When Linaria flowers bloom.
+ピアノ独奏曲9番／ワルツ「リナリアが咲く時」　Piano Solo No.9/When Linaria flowers bloom.
 - 2025年作曲
 - 難易度：☆☆☆☆（中級）
 - 今までと作風が変わってクラシック的な響きを求めて試行した習作。メロディも伴奏もとてもクラシック的な曲で、コード進行や音の響きがとても複雑。嬰ハ短調の暗い響きで始まりますが、たびたび転調し、本能のままに転調していったら最後はなんとハ長調で終わります。
