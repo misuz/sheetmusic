@@ -74,7 +74,7 @@
 - クレマチス・アーマンディの花言葉は「精神の美、心の美しさ」
 - 思い出の場所は失われてしまったけれど、美しい思い出として心に残っている。この曲をテーマにした短編小説があります。[クレマチス・アーマンディの記憶](https://note.com/seewheniseeyou/n/n89201a9525d0)
 - (PC試奏動画)※初期の草稿段階のものを入力したので簡易版です。実際（楽譜）よりアレンジがシンプルになっています。 https://youtu.be/gAcEBxImGkU 
-- <img src="castleruinsofclematisarmandii.jpg" width="500px">
+- <img src="castleruinsofclematisarmandii.png" width="500px">
 
 ### [PianoSoloNo8Gdur.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo8Gdur.pdf)
 ピアノ独奏曲8番／ト長調・ホ短調「ウエストリンギアの花冠」　Piano Solo No.8/G-dur, A-moll/A corolla of Westringia.
