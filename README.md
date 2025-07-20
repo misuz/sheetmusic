@@ -52,7 +52,7 @@
 - この曲をテーマにした短編小説があります。[レインリリーの咲く日に](https://note.com/seewheniseeyou/n/n96d4a6aaf813?sub_rt=share_pw)
 - [作曲者自身によるヘタクソな演奏をどうぞ（笑）:Drz](https://www.facebook.com/share/v/1EwM61WNy8/) 初期の草稿アレンジなので楽譜と少し違います。
 - [高音質版（ヘタなのは変わらない）](https://www.facebook.com/share/v/1HYjNF98Uk/) こちらは楽譜どおりに弾いています。
-- ![レインリリーの森](forestofrainlily.jpg)
+- <img src="forestofrainlily.jpg" width="500px">
  
 
 ### [PianoSoloNo6Emoll.pdf](https://github.com/misuz/sheetmusic)（採譜準備中のため楽譜未公開、試奏動画のみ）
@@ -74,7 +74,7 @@
 - クレマチス・アーマンディの花言葉は「精神の美、心の美しさ」
 - 思い出の場所は失われてしまったけれど、美しい思い出として心に残っている。この曲をテーマにした短編小説があります。[クレマチス・アーマンディの記憶](https://note.com/seewheniseeyou/n/n89201a9525d0)
 - (PC試奏動画)※初期の草稿段階のものを入力したので簡易版です。実際（楽譜）よりアレンジがシンプルになっています。 https://youtu.be/gAcEBxImGkU 
-- ![クレマチス・アーマンディの城跡](castleruinsofclematisarmandii.jpg)
+- <img src="castleruinsofclematisarmandii.jpg" width="500px">
 
 ### [PianoSoloNo8Gdur.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo8Gdur.pdf)
 ピアノ独奏曲8番／ト長調・ホ短調「ウエストリンギアの花冠」　Piano Solo No.8/G-dur, A-moll/A corolla of Westringia.
@@ -83,7 +83,8 @@
 - 寂しさと切なさを感じさせる穏やかで優しい曲です。クラシック感はなく現代風の曲で、ほとんどの部分がホ短調基調ですが最終的にはト長調で終わります。平行調の関係。
 - ウエストリンギアはローズマリーに似ていますが、香りがまったくないことから「飾り気のない、誠実な」という意味を与えられています。れんげ草のように円形に編み込んで花冠（カローラ）を作ることができます。
 - ウエストリンギアの花言葉は「真実の愛」
-- (PC試奏動画) https://youtu.be/jCEi-UmvFr8
+- (PC試奏動画) https://youtu.be/jCEi-UmvFr8xc
+- <img src="westringia.png" width="500px">
 
 ### [PianoSoloNo9.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo9.pdf)
 ピアノ独奏曲9番／ワルツ「リナリアが咲く時」　Piano Solo No.9/When Linaria flowers bloom.
