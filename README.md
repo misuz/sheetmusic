@@ -52,7 +52,7 @@
 - この曲をテーマにした短編小説があります。[レインリリーの咲く日に](https://note.com/seewheniseeyou/n/n96d4a6aaf813?sub_rt=share_pw)
 - [作曲者自身によるヘタクソな演奏をどうぞ（笑）:Drz](https://www.facebook.com/share/v/1EwM61WNy8/) 初期の草稿アレンジなので楽譜と少し違います。
 - [高音質版（ヘタなのは変わらない）](https://www.facebook.com/share/v/1HYjNF98Uk/) こちらは楽譜どおりに弾いています。
-- <img src="forestofrainlily.jpg" width="500px">
+- <img src="forestofrainlily.png" width="500px">
  
 
 ### [PianoSoloNo6Emoll.pdf](https://github.com/misuz/sheetmusic)（採譜準備中のため楽譜未公開、試奏動画のみ）
