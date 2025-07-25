@@ -77,7 +77,7 @@
 - <img src="castleruinsofclematisarmandii.png" width="500px">
 
 ### [PianoSoloNo8Gdur.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo8Gdur.pdf)
-ピアノ独奏曲8番／ト長調・ホ短調「ウエストリンギアの花冠」　Piano Solo No.8/G-dur, A-moll/A corolla of Westringia.
+ピアノ独奏曲8番／ト長調・ホ短調「ウエストリンギアの花冠」　Piano Solo No.8/G-dur,E-moll/A corolla of Westringia.
 - 2025年作曲
 - 難易度：☆☆☆（初中級）一見音数が多く見えますが左手伴奏が簡単なので初級でも弾けると思います。
 - 寂しさと切なさを感じさせる穏やかで優しい曲です。クラシック感はなく現代風の曲で、ほとんどの部分がホ短調基調ですが最終的にはト長調で終わります。平行調の関係。
