@@ -72,7 +72,7 @@
 - 美しい心、という花言葉を持つクレマチス・アーマンディは蔓（つる）草の女王と呼ばれ、建物を覆い尽くすように蔓を伸ばし、白い大きな花をたくさん咲かせます。 この曲は楽譜が美しく、蔓草に覆われた城壁のように見えることから曲名となりました。
 - クレマチス・アーマンディの花言葉は「精神の美、心の美しさ」
 - 思い出の場所は失われてしまったけれど、美しい思い出として心に残っている。この曲をテーマにした短編小説があります。[クレマチス・アーマンディの記憶](https://note.com/seewheniseeyou/n/n89201a9525d0)
-- (PC試奏) https://youtu.be/CC2NpqfjnPc
+- (PC試奏動画) https://youtu.be/CC2NpqfjnPc
 - <img src="castleruinsofclematisarmandii.png" width="500px">
 
 ### [PianoSoloNo8Gdur.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo8Gdur.pdf)
