@@ -10,7 +10,7 @@
 - 本ページのイメージイラスト（写真）はAIで独自に生成したものです。
 
 ### [PianoSoloNo1Dmajor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo1Dmajor.pdf)
-ピアノ独奏曲1番／ニ長調 「リラの咲く湖」Piano Solo No.1/D-major/Lakeside with bloom of lilas.
+#### ピアノ独奏曲1番／ニ長調 「リラの咲く湖」Piano Solo No.1/D-major/Lakeside with bloom of lilas.
 - 1990年頃の作曲
 - 難易度：☆☆（初級・ブルグミュラー程度）
 - 清楚で可憐で壮大なイメージ。
@@ -18,7 +18,7 @@
 - リラはライラックの別名。ライラックの花言葉は「思い出」「友情」。北海道に咲く花。北海道洞爺湖の湖畔に咲くライラック。
 
 ### [PianoSoloNo2Dmajor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo2Dmajor.pdf)
-ピアノ独奏曲2番／ニ長調 「フクシアの耳飾り」 Piano Solo No.2/D-major/Earrings of Fuchsia.
+#### ピアノ独奏曲2番／ニ長調 「フクシアの耳飾り」 Piano Solo No.2/D-major/Earrings of Fuchsia.
 - 2005年作曲
 - 難易度：☆☆（初級・ブルグミュラー程度）
 - あるソフトウェアのBGMとして組み込まれていました。
@@ -27,7 +27,7 @@
 - フクシアの花言葉は「つつましい愛」「上品」
 
 ### [PianoSoloNo3WaltzEmoll.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo3WaltzEmoll.pdf)
-ピアノ独奏曲3番／ホ短調　ワルツ「ラベンダーフィールドの約束」Piano Solo No.3/E-moll/A promise in the lavender field.
+#### ピアノ独奏曲3番／ホ短調　ワルツ「ラベンダーフィールドの約束」Piano Solo No.3/E-moll/A promise in the lavender field.
 - 2024年作曲
 - 難易度：☆☆☆（初中級）中間部がやや難しいので弾けない音は省略しても良いと思います。
 - 2024年にヒットしたドラマ「涙の女王」のラストシーンのイメージで作った曲です。
@@ -36,14 +36,14 @@
 - ラベンダーの花言葉は「あなたを待っています」
 
 ### [PianoSoloNo4Passacalia.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo4Passacalia.pdf)
-ピアノ(オルガン)独奏曲4番／パッサカリア　変ニ長調・変ロ短調「海風とネモフィラの草原」 Piano Solo No.4/D-flat-major,B-flat-minor/Nemophila grassland in the sea breeze.
+#### ピアノ(オルガン)独奏曲4番／パッサカリア　変ニ長調・変ロ短調「海風とネモフィラの草原」 Piano Solo No.4/D-flat-major,B-flat-minor/Nemophila grassland in the sea breeze.
 - 2024年作曲
 - 難易度：☆☆（初級・ブルグミュラー程度）
 - パイプオルガンが好きでパイプオルガン向きの曲を作ろうと思って作った曲。バロック調。パッサカリアはスペイン発祥の繰り返しの多い三拍子の舞踊曲。短い曲。
 - ネモフィラの花言葉は「可憐」「あなたを許す」。
 
 ### [PianoSoloNo5Csharpminor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo5Csharpminor.pdf)
-ピアノ独奏曲5番／嬰ハ短調「レインリリーの森」 Piano Solo No.5/C-sharp-minor/Forest of Rainlily.
+#### ピアノ独奏曲5番／嬰ハ短調「レインリリーの森」 Piano Solo No.5/C-sharp-minor/Forest of Rainlily.
 - 2024年作曲
 - 難易度：☆☆☆（初中級・オクターブ多用、ウナコルダ（左ペダル）多用するので少し難しい）
 - 嬰ハ短調は12調の中で最も暗い、陰鬱、悲しい響きとされこれを主調とする曲はとても少ないとのことですがベートーヴェンやショパンが好んで使っています。
@@ -56,7 +56,7 @@
  
 
 ### [PianoSoloNo6Emoll.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo6Emoll.pdf)
-ピアノ独奏曲6番／ホ短調「スターチスの丘」　Piano Solo No.6/E-moll/Statice blooming on the hills.
+#### ピアノ独奏曲6番／ホ短調「スターチスの丘」　Piano Solo No.6/E-moll/Statice blooming on the hills.
 - 2025年作曲
 - 難易度：☆☆☆☆（中級）
 - 短調ですがグルーブ感のあるかっこいい曲です。ゲーム音楽っぽい感じもあり（運動会のBGM？という意見も...）。
@@ -65,7 +65,7 @@
 - (PC試奏動画) https://youtu.be/rSId5xeR0qE
 
 ### [PianoSoloNo7Fismoll.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo7Fismoll.pdf)
-ピアノ独奏曲7番／嬰ヘ短調「クレマチス・アーマンディの城跡（じょうせき）」　Piano Solo No.7/Fis-moll/Castle ruins with Clematis Armandii.
+#### ピアノ独奏曲7番／嬰ヘ短調「クレマチス・アーマンディの城跡（じょうせき）」　Piano Solo No.7/Fis-moll/Castle ruins with Clematis Armandii.
 - 2025年作曲
 - 難易度：☆☆☆☆☆（上級・本来はかなり速弾きの曲ですがゆっくり弾いても良いです）
 - 古典派な感じのクラシックピアノ曲です。大ロンド形式の変奏曲。切ない響きの美しく激しい曲です。
@@ -78,7 +78,7 @@
 - <img src="castleruinsofclematisarmandii.png" width="500px">
 
 ### [PianoSoloNo8Gdur.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo8Gdur.pdf)
-ピアノ独奏曲8番／ト長調・ホ短調「ウエストリンギアの花冠」　Piano Solo No.8/G-dur,E-moll/A corolla of Westringia.
+###s ピアノ独奏曲8番／ト長調・ホ短調「ウエストリンギアの花冠」　Piano Solo No.8/G-dur,E-moll/A corolla of Westringia.
 - 2025年作曲
 - 難易度：☆☆☆（初中級）一見音数が多く見えますが左手伴奏が簡単なので初級でも弾けると思います。
 - 寂しさと切なさを感じさせる穏やかで優しい曲です。クラシック感はなく現代風の曲で、ほとんどの部分がホ短調基調ですが最終的にはト長調で終わります。平行調の関係。
@@ -88,7 +88,7 @@
 - <img src="westringia.png" width="500px">
 
 ### [PianoSoloNo9.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo9.pdf)
-ピアノ独奏曲9番／ワルツ「リナリアが咲く時」　Piano Solo No.9/When Linaria flowers bloom.
+###s ピアノ独奏曲9番／ワルツ「リナリアが咲く時」　Piano Solo No.9/When Linaria flowers bloom.
 - 2025年作曲
 - 難易度：☆☆☆☆（中級）
 - 今までと作風が変わってクラシック的な響きを求めて試行した習作。メロディも伴奏もとてもクラシック的な曲で、コード進行や音の響きがとても複雑。嬰ハ短調の暗い響きで始まりますが、たびたび転調し、本能のままに転調していったら最後はなんとハ長調で終わります。
