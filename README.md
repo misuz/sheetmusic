@@ -9,7 +9,7 @@
 - 実際にピアノを弾きながら作曲しているので、作曲当時の私の演奏技量に応じた編曲になっています。つまり後半へ行くほど演奏の難易度は上がります。難易度の☆は私の個人的なレベル表ですので正しくないかもしれません。
 - 本ページのイメージイラスト（写真）はAIで独自に生成したものです。
 - pdfのリンクをクリックして楽譜の右上にある「...」からPDFファイルをダウンロードできます。コンビニ等で印刷できます。
-- 作曲者自身のおすすめは5番「レインリリーの森」、7番「クレマチス・アーマンディの城跡」です。3番「ラベンダーフィールドの約束」も美しい曲です。
+
 
 ### [PianoSoloNo1Dmajor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo1Dmajor.pdf)
 #### ピアノ独奏曲1番／ニ長調 「リラの咲く湖」Piano Solo No.1/D-major/Lakeside with bloom of lilas.
@@ -96,9 +96,6 @@
 - (PC試奏動画) https://youtu.be/wwPsA5SjExU
 - <img src="linaria.png" width="500px">
 
-### [PianoSoloNo10.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo10.pdf)
-#### ピアノ独奏曲10番／ニ長調「馬酔木の咲く島へ」（仮）　Piano Solo No.10/Toward the Liberty Island where Lily-of-the-valley Bush blooms.
-- （未完成）
 
 
 
