@@ -96,7 +96,13 @@
 - (PC試奏動画) https://youtu.be/wwPsA5SjExU
 - <img src="linaria.png" width="500px">
 
-
+### [PianoSoloNo10.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo10.pdf)　楽譜は暫定版
+#### ピアノ独奏曲10番／ニ長調「自由の島、ピエリスの花」　Requiem for Liberty-Island the girl with pieris flowers.
+- 2025年作曲
+- 難易度：☆☆☆☆（中上級）左手が複雑で少し難しいと思います。
+- 5分を超える長い曲です。途中平行調に転調し最後は変格終止（Ⅰ→Ⅳ）いわゆる「アーメン終始」で終わります。
+- 2025年春、「お嬢様」の愛称で親しまれたリバティーアイランドという名馬がいました。その馬のエピソードにちなんで作った鎮魂歌です。ニ長調ですがなんとなく悲しい雰囲気の曲です。
+- ピエリスは学名で通称Japanese Andromeda、和名をアセビ（馬酔木）といい、日本固有の花木です。薄いピンク色のスズランに似た花をつける低木であることから別名Lily-of-the-vallery Bush（スズランの木）ともいいます。花言葉は「献身」「あなたと二人で旅をしましょう」という素敵な意味を持っていますが毒があります。
 
 
 ### おまけ（たまにはこういう曲も作ります）
