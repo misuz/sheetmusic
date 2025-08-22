@@ -97,7 +97,7 @@
 - <img src="linaria.png" width="500px">
 
 ### [PianoSoloNo10.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo10.pdf)　※楽譜は暫定版
-#### ピアノ独奏曲10番／ニ長調「自由の島、ピエリスの花」　Requiem for Liberty-Island the girl with pieris flowers.
+#### ピアノ独奏曲10番／ニ長調「自由の島、ピエリスの花」　Requiem for Liberty-Island the girl with Pieris flowers.
 - 2025年作曲
 - 難易度：☆☆☆☆（中級）ゆったりした曲ですが左手が複雑で演奏はなかなか難しい曲です。
 - 2025年春、[「お嬢さん」の愛称で愛されたリバティーアイランドという名馬](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%90%E3%83%86%E3%82%A3%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89)がいました。その馬の騎手を思う優しいエピソードにちなんで作った鎮魂歌です。ピエリスは「献身」「二人で旅をしましょう」という素敵な花言葉を持っています。
