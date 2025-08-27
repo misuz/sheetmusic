@@ -19,6 +19,7 @@
 - 清楚で可憐で壮大なイメージ。
 - 本楽譜はピアノ独奏ですが、ストリングス、ベース、コーラス、パーカッションを入れたフルスコア版もあり、ある湖畔の町の役所ロビーのBGMとして流していたことがあります。映画音楽っぽい雰囲気の曲です。
 - リラはライラックの別名。ライラックの花言葉は「思い出」「友情」。北海道に咲く花。北海道洞爺湖の湖畔に咲くライラック。
+- (PC試奏動画) https://youtu.be/kMOWNMz50n8
 
 ### [PianoSoloNo2Dmajor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo2Dmajor.pdf)
 #### ピアノ独奏曲2番／ニ長調 「フクシアの耳飾り」 Piano Solo No.2/D-major/Earrings of Fuchsia.
