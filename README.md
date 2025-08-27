@@ -95,8 +95,7 @@
 - (PC試奏動画) https://youtu.be/wwPsA5SjExU
 - <img src="linaria.png" width="500px">
 
-### [PianoSoloNo10.pdf](https://github.com/misuz/sheetmusic/)
-#### ※某企画に応募中のため楽譜は企画終了後に公開予定（12月頃）
+### [PianoSoloNo10.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo10.pdf)
 #### ピアノ独奏曲10番／ニ長調「自由の島、ピエリスの花」　Requiem for Liberty-Island the girl with Pieris flowers.
 - 2025年作曲
 - 難易度：☆☆☆☆（中上級）ゆったりした曲ですが音のバランスを取るのが難しく、綺麗に演奏するには技術のいる曲です。
@@ -130,6 +129,7 @@
 Ah so tough night
 雨の中にso slight light
 ```
+
 
 
 
