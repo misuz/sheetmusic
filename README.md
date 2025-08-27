@@ -117,7 +117,7 @@
 - [DTM甲子園2025](https://movementproduction.jp/dtm-koushien-2025/)に勢いで応募した曲です笑
 - VOCALOIDを人生で初めて使用したので稚拙なところはご容赦ください。VOCALOID6はまだ試用版です :Drz
 - 女性アイドルグループ向きの切ないメロディのダンスミュージックです。
-- (DTM試奏動画) https://youtu.be/nwZLvAJIyX0
+- (DTM試奏動画) https://youtu.be/dhFCD9elZpU
 - 歌詞 (1番のみ)
 ```
 鏡に映る私の姿見つけて
@@ -132,3 +132,4 @@
 Ah so tough night
 雨の中にso slight light
 ```
+
