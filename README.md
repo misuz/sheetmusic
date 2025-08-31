@@ -115,7 +115,8 @@
 
 - 女性ボーカルグループ向けのちょっと切ない、踊れる曲です。
 
-- (DTM試奏動画) https://youtu.be/dhFCD9elZpU
+- (DTM試奏動画) https://youtu.be/CVz48TpkHL0
+
 
 
 
