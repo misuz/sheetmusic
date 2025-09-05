@@ -17,7 +17,8 @@
 - 1990年頃の作曲
 - 難易度：☆☆（初級・ブルグミュラー程度）
 - 清楚で可憐で壮大なイメージ。
-- リラはライラックの別名。ライラックの花言葉は「思い出」「友情」。北海道に咲く花。
+- リラはライラックの別名。ライラックの花言葉は「思い出」「友情」。北海道に咲く花。
+
 
 ### [PianoSoloNo2Dmajor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo2Dmajor.pdf)
 #### ピアノ独奏曲2番／ニ長調 「フクシアの耳飾り」 Piano Solo No.2/D-major/Earrings of Fuchsia.
@@ -111,10 +112,8 @@
 
 ### 「雨の中のslight light」 (ワンコーラスのみ) 
 - [DTM甲子園2025](https://movementproduction.jp/dtm-koushien-2025/)に勢いで応募した曲です笑
-
 - 女性ボーカルグループ向けのちょっと切ない、踊れる曲です。
-
-- (DTM試奏動画) https://youtu.be/CVz48TpkHL0
+- (DTM試奏動画) https://youtu.be/JHH6X3cWUbE
 
 
 
