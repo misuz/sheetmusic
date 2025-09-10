@@ -114,6 +114,7 @@
 - [DTM甲子園2025](https://movementproduction.jp/dtm-koushien-2025/)に勢いで応募した曲です笑
 - 女性ボーカルグループ向けのちょっと切ない、踊れる曲です。
 - (DTM試奏動画) https://youtu.be/JHH6X3cWUbE
+- 本曲に限り、著作権の扱いが他の曲とは異なる場合がありますので無断転用等はご遠慮ください。
 
 
 
