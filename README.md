@@ -116,10 +116,12 @@
 - (PC試奏動画) https://youtu.be/UD5-4exVY4o
 - <img src="roselily.png" width="500px">
 
-
-
-
-
+### [PianoSoloNo12.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo12.pdf)
+#### ピアノ独奏曲12番／ バラード（制作中）　
+- 2025年作曲
+- 難易度：☆☆☆☆（中級）
+- 物語風に展開していく長い曲（バラード）
+- 最後の作品になる予定。
 
 
 
