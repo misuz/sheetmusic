@@ -117,7 +117,7 @@
 - <img src="roselily.png" width="500px">
 
 ### [PianoSoloNo12.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo12.pdf)
-#### ピアノ独奏曲12番／ニ短調「花の記憶の叙情詩（バラード）」
+#### ピアノ独奏曲12番／ニ短調「花の記憶の抒情詩（バラード）」
 - 2025年作曲
 - 難易度：☆☆☆☆☆（上級）
 - 短調と長調を行き来して物語のように場面が展開していく長い曲（バラード形式）。約10分あります。
