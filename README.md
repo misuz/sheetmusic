@@ -40,10 +40,10 @@
 - ラベンダーの花言葉は「あなたを待っています」
 
 ### [PianoSoloNo4Passacalia.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo4Passacalia.pdf)
-#### ピアノ(オルガン)独奏曲4番／パッサカリア　変ニ長調・変ロ短調「海風とネモフィラの草原」 Piano Solo No.4/D-flat-major,B-flat-minor/Nemophila grassland in the sea breeze.
+#### オルガン独奏曲4番／パッサカリア　変ニ長調・変ロ短調「海風とネモフィラの草原」 Piano Solo No.4/D-flat-major,B-flat-minor/Nemophila grassland in the sea breeze.
 - 2024年作曲
 - 難易度：☆☆（初級・ブルグミュラー程度）
-- パイプオルガンが好きでパイプオルガン向きの曲を作ろうと思って作った曲。バロック調。パッサカリアはスペイン発祥の繰り返しの多い三拍子の舞踊曲。短い曲。
+- パイプオルガンが好きでパイプオルガン向きの曲を作ろうと思って作った曲。バロック調。パッサカリアはスペイン発祥の繰り返しの多い三拍子の舞踊曲。短い曲。ずっと鳴ってい低音（通奏低音）をベタル鍵盤で。
 - ネモフィラの花言葉は「可憐」「あなたを許す」。
 
 ### [PianoSoloNo5Csharpminor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo5Csharpminor.pdf)
