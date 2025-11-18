@@ -75,7 +75,7 @@
 - クレマチスは蔓（つる）草の女王と呼ばれ、建物を覆い尽くすように蔓を伸ばし、大きな花をたくさん咲かせます。 この曲は楽譜が美しく、蔓草に覆われた城壁のように見えることから曲名となりました。
 - クレマチスの中でもアーマンディはとても細いツルから真っ白な大きくて立派な花を咲かせることから、内面の美しさ、精神の美、心の美しい人、心の中の美しい思い出、といった意味の花言葉を持っています。
 - 思い出の場所は失われてしまったけれど、美しい思い出として心に残っている。第5番「レインリリーの森」は今は亡き人を偲ぶ曲ですが、この曲は「今は無き場所」を偲ぶ曲です。この曲をテーマにした短編小説があります。 [海辺の観覧車](https://note.com/seewheniseeyou/n/n60c7e0fa7025)
-- (PC試奏動画) https://youtu.be/CC2NpqfjnPc
+- (PC試奏動画) https://youtu.be/ELWz_VosXfs
 - <img src="castleruinsofclematisarmandii.png" width="500px">
 
 ### [PianoSoloNo8Gdur.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo8Gdur.pdf)
@@ -125,5 +125,6 @@
 - 最後の作品なので、特定の花の名前は付けませんでした。人それぞれ思い出の花があると思いますので、それを思い浮かべながら弾いて（聴いて）ほしい曲です。
 - (PC試奏動画) https://youtu.be/Mi62KdfTqhw
 - <img src="flowers.png" width="500px">
+
 
 
