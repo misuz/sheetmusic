@@ -85,7 +85,7 @@
 - 寂しさと切なさを感じさせる穏やかで優しい曲です。クラシック感はなく現代風の曲で、ほとんどの部分がホ短調基調ですが最終的にはト長調で終わります。平行調の関係。
 - ウエストリンギアはローズマリーに似ていますが、香りがまったくないことから「飾り気のない、誠実な」という意味を与えられています。れんげ草のように円形に編み込んで花冠（カローラ）を作ることができます。
 - ウエストリンギアの花言葉は「真実の愛」
-- (PC試奏動画) https://youtu.be/jCEi-UmvFr8xc
+- (PC試奏動画) https://youtu.be/_HZNCd79A5Q
 - <img src="westringia.png" width="500px">
 
 ### [PianoSoloNo9.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo9.pdf)
@@ -125,4 +125,5 @@
 - 最後の作品なので、特定の花の名前は付けませんでした。人それぞれ思い出の花があると思いますので、それを思い浮かべながら弾いて（聴いて）ほしい曲です。
 - (PC試奏動画) https://youtu.be/Mi62KdfTqhw
 - <img src="flowers.png" width="500px">
+
 
