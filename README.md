@@ -108,9 +108,9 @@
 ### [PianoSoloNo11.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo11.pdf)
 #### オルガン（ピアノ）独奏曲11番／ニ短調「ローズリリーの鐘楼」Church bell of Roselily.　
 - 2025年作曲
-- 難易度：☆☆（初級）パイプオルガンのための讃美歌風の曲です。和声の勉強のために作った約2分の短い曲です。
+- 難易度：☆☆（初級）パイプオルガンのための讃美歌風の曲です。和声の勉強のために作った約2分の短い曲です。最後はいわゆるピカルディ終止（同主長調のI）で終わります。
 - ローズリリーは八重咲の豪華なユリで、特にアイシャやルドウィナといった品種はとても美しく「威厳」「純粋」「純潔」といった意味を持ちます。教会に縁の深い花です。
-- (PC試奏動画) https://youtu.be/UD5-4exVY4o
+- (PC試奏動画) https://youtu.be/jtuysKmVIVM
 - <img src="roselily.png" width="500px">
 
 ### [PianoSoloNo12.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo12.pdf)
@@ -122,6 +122,7 @@
 - 最後の作品なので、特定の花の名前は付けませんでした。人それぞれ思い出の花があると思いますので、それを思い浮かべながら弾いて（聴いて）ほしい曲です。
 - (PC試奏動画) https://youtu.be/yjGjEHqYq4A
 - <img src="flowers.png" width="500px">
+
 
 
 
