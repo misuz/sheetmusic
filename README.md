@@ -37,7 +37,7 @@
 - 6度の和声メロディーが美しい曲です。ヴァイオリンにも向いています。ヴァイオリン・ピアノ二重奏にどうぞ。
 - ラベンダーの花言葉は「あなたを待っています」
 - (PC試奏動画) https://youtu.be/9nH-02WPazs
-- <img src="lavenderfield.png" width="500px">
+- <img src="lavenderfield.jpg" width="500px">
 
 ### [PianoSoloNo4Passacalia.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo4Passacalia.pdf)
 #### 第4番　オルガン独奏曲／パッサカリア　変ニ長調・変ロ短調「海風とネモフィラの草原」 Piano Solo No.4/D-flat-major,B-flat-minor/Nemophila grassland in the sea breeze.
@@ -129,6 +129,7 @@
 
 ---
 音楽というのは演奏の難しさを競う競技ではありません。だから、簡単に弾けて心に残る曲というのが本当の名曲なのだと思います。作曲者自身が一番気に入っている曲は第5番「レインリリーの森」です。
+
 
 
 
