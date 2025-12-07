@@ -46,8 +46,8 @@
 - パイプオルガンが好きでパイプオルガン向きの曲を作ろうと思って作った曲。バロック調。パッサカリアはスペイン発祥の繰り返しの多い三拍子の舞踊曲で低音に主題がある曲。短い曲。
 - ネモフィラの花言葉は「可憐」「あなたを許す」。
 
-### [PianoSoloNo5Csharpminor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo5Csharpminor.pdf)
-#### 第5番　ピアノ独奏曲／嬰ハ短調「レインリリーの森」 Piano Solo No.5/C-sharp-minor/Forest of Rainlily.
+### [PianoSoloNo5Csharpminor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo5cismoll.pdf)
+#### 第5番　ピアノ独奏曲／嬰ハ短調「レインリリーの森」 Piano Solo No.5/Cis-moll/Forest of Rainlily.
 - 2024年作曲
 - 難易度：☆☆☆（初中級・オクターブ多用、ウナコルダ（左ペダル）多用するので少し難しい）人生初の発表会で披露した曲です。
 - 嬰ハ短調は短調12調の中でも最も暗い、陰鬱、悲しい響きとされこれを主調とする曲はとても少ないとのことですがベートーヴェンやショパンが好んで使っています。
@@ -55,6 +55,7 @@
 - レインリリーの花言葉は「プラトニックラブ」「メッセージ」。彼岸花の仲間であることから、亡くなった恋人からのメッセージ、という意味もあります。切ない響きの美しい曲です。
 - この曲をテーマにした短編小説があります。[レインリリーの咲く日に](https://note.com/seewheniseeyou/n/n96d4a6aaf813?sub_rt=share_pw)
 - [作曲者自身によるヘタクソな演奏をどうぞ　:Drz](https://youtu.be/EXOdnixtUEI)
+- (PC試奏) https://youtu.be/l7F3D3NMYNU
 - <img src="forestofrainlily.png" width="500px">
  
 
@@ -129,6 +130,7 @@
 
 ---
 音楽というのは演奏の難しさを競う競技ではありません。だから、簡単に弾けて心に残る曲というのが本当の名曲なのだと思います。作曲者自身が一番気に入っている曲は第5番「レインリリーの森」です。
+
 
 
 
