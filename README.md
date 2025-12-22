@@ -82,10 +82,10 @@
 - <img src="castleruinsofclematisarmandii.png" width="500px">
 
 ### [PianoSoloNo8Gdur.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo8Gdur.pdf)
-#### 第8番　ピアノ独奏曲／ホ短調「ウエストリンギアの花冠（カロラ）」　Piano Solo No.8/G-dur,E-moll/A corolla of Westringia.
+#### 第8番　ピアノ独奏曲／ホ短調「ウエストリンギアの花冠」　Piano Solo No.8/G-dur,E-moll/A corolla of Westringia.
 - 2025年作曲
 - 難易度：☆☆☆（初中級）一見音数が多く見えますが左手伴奏が簡単なので初級でも弾けると思います。
-- 寂しさと切なさを感じさせる穏やかで優しい曲です。クラシック感はなく現代風の曲で、ほとんどの部分がホ短調基調ですが最終的にはト長調で終わります。平行調の関係。
+- 寂しさと切なさを感じさせる穏やかで優しい曲です。クラシック感はなく現代風の曲で、ほとんどの部分がホ短調基調ですが最終的には平行調のト長調で終わります。
 - ウエストリンギアはローズマリーに似ていますが、香りがまったくないことから「飾り気のない、誠実な」という意味を与えられています。れんげ草のように円形に編み込んで花冠（カロラ）を作ることができます。
 - ウエストリンギアの花言葉は「真実の愛」
 - (PC試奏動画) https://youtu.be/_HZNCd79A5Q
