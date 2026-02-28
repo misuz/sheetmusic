@@ -133,8 +133,9 @@
 ---
 ### おまけ
 
-### VOCALOID修作
+### VOCALOID習作
 - 初めてVOCALOIDを使用してみたJ-POPSです。
 - DAW Logic Proもこれが初めてなので稚拙なところはご容赦ください。
 - 若い頃に作曲した女性ボーカル曲がたくさんあるので、いずれDAW入力して載せていきたいと思います...
-- (VOCALOID修作) 「雨の中のslight light」 https://youtu.be/JHH6X3cWUbE
+- (VOCALOID習作) 「雨の中のslight light」 https://youtu.be/JHH6X3cWUbE
+
