@@ -38,7 +38,7 @@
 - 2024年にヒットした配信ドラマのラストシーンのイメージで作った曲です。天国で再会した二人がラベンダーの草原で躍るワルツ。難病で生死をさまよった彼女は、どちらか先に死んだほうは残されたほうが死ぬときに必ず迎えに来てね、そうすれば死も怖くないから、という約束をしていた。悲しげですが生涯を添い遂げた夫婦のハッピーエンドの曲です。
 - 6度の和声メロディーが美しい曲です。ヴァイオリンにも向いています。ヴァイオリン・ピアノ二重奏にどうぞ。
 - ラベンダーの花言葉は「あなたを待っています」
-- (PC試奏動画) https://youtu.be/IMlL20kzKNk
+- (PC試奏動画) https://youtu.be/cWIIWsRlnbU
 - <img src="lavenderfield.jpg" width="500px">
 
 ### [PianoSoloNo4Passacalia.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo4Passacalia.pdf)
