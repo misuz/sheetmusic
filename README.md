@@ -108,7 +108,7 @@
 - ピエリスは通称Japanese Andromeda、和名をアセビ（馬酔木）といい、日本固有種の花木です。薄いピンク色のスズランに似た花をつける低木であることから別名Lily-of-the-valley Bush（スズランの木）ともいいます。
 - 約8分の長い曲です。途中平行調のロ短調に転調し最後は変格終止（Ⅳ→Ⅰ）いわゆる「アーメン終止」で終わります。明るい長調基調ですが深い悲しみと感謝を感じさせる曲です。
 - (PC試奏動画) https://youtu.be/PF9vvrQzFEI
-- <img src="libertyi.jpg" width="500px">
+- <img src="pieris.jpg" width="500px">
 - （ピエリスの花がAIで描けなかったのでこの花はピエリスではありません）
 
 ### [PianoSoloNo11.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo11.pdf)
