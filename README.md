@@ -1,5 +1,5 @@
 # 自作曲ピアノ楽譜「組曲　花言葉」全12曲
-### Modern Classic Piano Solo Original Songs - Words of Flowers - Sheet Music 
+### Modern Classic Piano Solo Original Songs - 12 Words of Flowers - Sheet Music 
 <img src="flowers.png" width="500px">
 
 - クラシックピアノを弾くようになり、何百年も後の人達が自分の作品を弾き継いでくれるのってなんか素敵だなあと思って細々と作っていた曲を残すことにしました。目標は百年後のピアノ発表会で子供達が定番曲として弾いてくれるピアノソナタを一曲残すことです。花の名前を付けているのは、その花を見たときに曲を思い出してくれるといいなあという思いからです。曲のイメージにあった花言葉を持つ花を選んでいます。
