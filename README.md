@@ -109,7 +109,7 @@
 - 約8分の長い曲です。途中平行調のロ短調に転調し最後は変格終止（Ⅳ→Ⅰ）いわゆる「アーメン終止」で終わります。明るい長調基調ですが深い悲しみと感謝を感じさせる曲です。
 - (PC試奏動画) https://youtu.be/PF9vvrQzFEI
 - <img src="pieris.jpg" width="500px">
-- （ピエリスの花がAIで描けなかったのでこの花はピエリスではありません）
+- 馬酔木の花（実写）
 
 ### [PianoSoloNo11.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo11.pdf)
 #### 第11番　オルガン独奏曲／ニ短調「ローズリリーの鐘楼」Church bell of Roselily.　
