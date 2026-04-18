@@ -120,7 +120,7 @@
 - <img src="roselily.png" width="500px">
 
 ### [PianoSoloNo12.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo12.pdf)
-#### 第12番　ピアノ独奏曲／ニ短調「花の記憶の抒情詩（バラード）」Ballard on memories of flowers.
+#### 第12番　ピアノ独奏曲／ニ短調バラード「花の記憶の抒情詩（バラード）」Ballard on memories of flowers.
 - 2025年作曲
 - 難易度：☆☆☆☆☆（上級）派手な曲ですが弾きやすく、見た目ほど難しくないと思います。
 - 劇的な変化を伴って物語のように場面が展開していく長い曲（バラード形式）。約11分あります。
