@@ -41,8 +41,8 @@
 - (PC試奏動画) https://youtu.be/cWIIWsRlnbU
 - <img src="lavenderfield.jpg" width="500px">
 
-### [PianoSoloNo4Passacalia.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo4Passacalia.pdf)
-#### 第4番　オルガン独奏曲／パッサカリア　変ニ長調・変ロ短調「海風とネモフィラの草原」 Piano Solo No.4/D-flat-major,B-flat-minor/Nemophila grassland in the sea breeze.
+### [OrganSoloNo4Passacalia.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo4Passacalia.pdf)
+#### 第4番　オルガン独奏曲／パッサカリア　変ニ長調・変ロ短調「海風とネモフィラの草原」 Organ Solo No.4/D-flat-major,B-flat-minor/Nemophila grassland in the sea breeze.
 - 2024年作曲
 - 難易度：☆☆（初級）
 - パイプオルガンが好きでパイプオルガン向きの曲を作ろうと思って作った曲。バロック調。パッサカリアはスペイン発祥の繰り返しの多い三拍子の舞踊曲で低音に主題がある曲。短い曲。
@@ -111,7 +111,7 @@
 - <img src="pieris.jpg" width="500px">
 - 馬酔木の花（実写）
 
-### [PianoSoloNo11.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo11.pdf)
+### [OrganSoloNo11.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo11.pdf)
 #### 第11番　オルガン独奏曲／ニ短調「ローズリリーの鐘楼」Church bell of Roselily.　
 - 2025年作曲
 - 難易度：☆☆（初級）パイプオルガンのための讃美歌風の曲です。和声の勉強のために作った約2分の短い曲です。最後はいわゆるピカルディ終止（同主長調のI）で終わります。
