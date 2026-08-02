@@ -41,8 +41,8 @@
 - (PC試奏動画) 修正中……
 - <img src="lavenderfield.jpg" width="500px">
 
-### [OrganSoloNo4Passacalia.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo4Passacalia.pdf)
-#### 第4番　オルガン独奏曲／パッサカリア　変ニ長調・変ロ短調「海風とネモフィラの草原」 Organ Solo No.4/D-flat-major,B-flat-minor/Nemophila grassland in the sea breeze.
+### [OrganSoloNo4Passacalia.pdf](https://github.com/misuz/sheetmusic/)
+#### 第4番　オルガン独奏曲　変ニ長調・変ロ短調「海風とネモフィラの草原」 Organ Solo No.4/D-flat-major,B-flat-minor/Nemophila grassland in the sea breeze.
 - 2024年作曲
 - 難易度：☆☆（初級）
 - パイプオルガンが好きでパイプオルガン向きの曲を作ろうと思って作った曲。バロック調。パッサカリアはスペイン発祥の繰り返しの多い三拍子の舞踊曲で低音に主題がある曲。短い曲。
