@@ -1,142 +1,602 @@
-# 自作曲ピアノ楽譜「組曲　花言葉」全12曲
-### Modern Classic Piano Solo Original Songs - 12 Words of Flowers - Sheet Music 
-<img src="flowers.png" width="500px">
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>組曲「花言葉」全12曲 | Piano Solo Sheet Music</title>
+<meta name="description" content="自作曲ピアノ楽譜 組曲「花言葉」全12曲 - Modern Classic Piano Solo Original Songs - 12 Words of Flowers - Sheet Music">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Noto+Serif+JP:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#fbf7f4;
+    --bg-alt:#f4ede6;
+    --card:#ffffff;
+    --ink:#2e2620;
+    --ink-soft:#5c5148;
+    --accent:#a8577e;
+    --accent-soft:#c98aa8;
+    --accent-pale:#f0dde6;
+    --gold:#b08d4f;
+    --line:#e4d8cc;
+    --shadow: 0 10px 30px -12px rgba(80,50,40,0.18);
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:"Noto Serif JP", serif;
+    line-height:1.9;
+    -webkit-font-smoothing:antialiased;
+  }
+  img{max-width:100%; display:block;}
+  a{color:var(--accent); text-decoration:none; border-bottom:1px solid var(--accent-pale); transition:border-color .2s, color .2s;}
+  a:hover{color:var(--gold); border-color:var(--gold);}
 
-- [こちらに簡単な解説](https://note.com/seewheniseeyou/n/n7da0275712bd?sub_rt=share_b)がありますので合わせてご覧いただけると嬉しいです。
-- クラシックに全く興味なかった私がクラシックピアノを弾くようになり、何百年も後の人達が自分の作品を弾き継いでくれるのってなんか素敵だなあと思って細々と作っていた曲を残すことにしました。目標は百年後のピアノ発表会で子供達が定番曲として弾いてくれるピアノソナタを一曲残すことです。花の名前を付けているのは、その花を見たときに曲を思い出してくれるといいなあという思いからです。曲のイメージにあった花言葉を持つ花を選んでいます。
-- ジャンル的には「現代クラシック」になるのかなと思いますが、前衛的な要素は全く無く作曲技法としてはバロックから古典派（ベートーヴェン時代）もしくはロマン派前期（ショパン時代）で、とても保守的な曲ばかりと思います。POPS曲も作ってきましたがクラシックにこだわっているのは百年単位で残る普遍性があるからです。
-- どれか一曲ということであれば[第5番「レインリリーの森」](https://github.com/misuz/sheetmusic?tab=readme-ov-file#pianosolono5cismollpdf)をお勧めします。初〜中級で弾けて、心に残る切なくて美しい曲です。1番、3番、8番も簡単に弾けて美しい曲です。腕に自信のある方は第7、9、10、12番あたりをどうぞ。
-- しっくりきていない部分があるので時々書き換えます。そういう意味では私が死んだ時が最終版（完成）ということに。
-- .sdxの拡張子は[KAWAIのスコアメーカーZERO](https://cm.kawai.jp/products/smz/)で読み込むことができます。KAWAIさんありがとうございます。.msczの拡張子は[musescore](https://musescore.org/ja)で読み込むことができます。いずれも簡易的な自動演奏ができます。
-- コードネームは適当なのでたぶんいろいろ間違っていると思います。楽譜通りに弾かなければいけないというクラシック名曲のようなこだわりはありませんので自由にアレンジしてご利用ください。
-- 実際にピアノを弾きながら作曲しているので、作曲当時の私の演奏技量に応じた編曲になっています。つまり後半へ行くほど演奏の難易度は上がります。難易度の☆は私の個人的なレベル表ですので正しくないかもしれません。
-- 本ページのイメージイラスト（写真）はAIで独自に生成したものです。
-- pdfのリンクをクリックして楽譜の右上にある「...」からPDFファイルをダウンロードできます。コンビニ等で印刷できます。
-- JASRAC未登録ですので許諾不要です。比較的初級者で弾けますが弾き映えする曲だと思いますのでピアノ発表会などで無償で自由にご利用ください。
+  .en{
+    font-family:"Cormorant Garamond", "Noto Serif JP", serif;
+  }
 
+  /* ---------- Hero ---------- */
+  .hero{
+    position:relative;
+    min-height:78vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    overflow:hidden;
+    background:
+      radial-gradient(ellipse at top, rgba(255,255,255,0.55), transparent 60%),
+      linear-gradient(180deg, #fdfaf7 0%, var(--bg) 70%);
+  }
+  .hero-bg{
+    position:absolute;
+    inset:0;
+    background-image:url('flowers.png');
+    background-size:cover;
+    background-position:center 30%;
+    opacity:0.34;
+    filter:saturate(0.9);
+    mask-image:linear-gradient(to bottom, rgba(0,0,0,0.9), rgba(0,0,0,0.15) 85%);
+    -webkit-mask-image:linear-gradient(to bottom, rgba(0,0,0,0.9), rgba(0,0,0,0.15) 85%);
+  }
+  .hero-inner{position:relative; z-index:1; padding:4rem 1.5rem 3rem;}
+  .hero-kicker{
+    letter-spacing:0.35em;
+    font-size:0.78rem;
+    color:var(--accent);
+    text-transform:uppercase;
+    margin-bottom:1.4rem;
+    font-family:"Cormorant Garamond", serif;
+  }
+  .hero h1{
+    font-size:clamp(2rem, 5vw, 3.4rem);
+    margin:0 0 0.6rem;
+    font-weight:600;
+    letter-spacing:0.04em;
+  }
+  .hero .suite-name{color:var(--accent); }
+  .hero p.subtitle{
+    font-family:"Cormorant Garamond", serif;
+    font-style:italic;
+    font-size:clamp(1rem, 2vw, 1.35rem);
+    color:var(--ink-soft);
+    margin:0 0 2.2rem;
+  }
+  .hero-note{
+    display:inline-block;
+    font-size:0.92rem;
+    color:var(--ink-soft);
+    background:rgba(255,255,255,0.7);
+    padding:0.6rem 1.3rem;
+    border-radius:999px;
+    border:1px solid var(--line);
+  }
+  .divider{
+    width:64px; height:2px; margin:0 auto;
+    background:linear-gradient(90deg, transparent, var(--gold), transparent);
+  }
 
-### [PianoSoloNo1Dmajor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo1Dmajor.pdf)
-#### 第1番　ピアノ独奏曲／ニ長調 「リラの咲く湖」Piano Solo No.1/D-major/Lakeside with bloom of lilas.
-- 1990年頃の作曲
-- 難易度：☆☆（初級）
-- 清楚で可憐で壮大なイメージ。大学生のころにピアノの良さに気づき、初めて作曲したピアノ曲。ピアノを習ったことがなくまだたいして弾けなかったので鍵盤で探した音を自動演奏専用機（シーケンサー）に数値入力して作曲した曲です。
-- 観光案内システムに組み込まれ、とある湖畔の街の役所ロビーでBGMとして長い間流していたことがあります。
-- リラはライラックの別名。ライラックの花言葉は「思い出」「友情」。北海道の花。
+  /* ---------- Sections ---------- */
+  section{padding:4.5rem 1.5rem;}
+  .wrap{max-width:900px; margin:0 auto;}
+  .wrap-wide{max-width:1180px; margin:0 auto;}
 
-### [PianoSoloNo2Dmajor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo2Dmajor.pdf)
-#### 第2番　ピアノ独奏曲／ニ長調 「フューシャのイヤリング」 Piano Solo No.2/D-major/Earrings of Fuchsia.
-- 2005年作曲
-- 難易度：☆☆（初級）
-- あるソフトウェアのBGMとして作曲した曲です。
-- フクシア（フューシャ）はフューシャピンクという色の名称にもなっている通り、鮮やかなえんじ色に近いピンクの花。
-- 花の形がイヤリングに似ていることから、幼い子供達が耳飾りにして遊んだといわれています。上品で穏やかで平和な可愛らしい曲です。
-- フクシアの花言葉は「つつましい愛」「上品」
+  .section-title{
+    text-align:center;
+    margin-bottom:2.6rem;
+  }
+  .section-title .en-label{
+    display:block;
+    font-family:"Cormorant Garamond", serif;
+    letter-spacing:0.3em;
+    text-transform:uppercase;
+    font-size:0.78rem;
+    color:var(--accent);
+    margin-bottom:0.6rem;
+  }
+  .section-title h2{
+    margin:0;
+    font-size:clamp(1.5rem, 3vw, 2.1rem);
+    font-weight:600;
+  }
 
-### [PianoSoloNo3WaltzEmoll.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo3WaltzEmoll.pdf)
-#### 第3番　ピアノ独奏曲／ホ短調　ワルツ「ラベンダーフィールドの約束」Piano Solo No.3/E-moll/A promise in the lavender field.
-- 2024年作曲（2026年変奏曲版改訂）
-- 難易度：☆☆☆（中級）中間部がやや難しいので弾けない音は省略しても良いと思います。ピアノを習い始めてまもない頃に作曲した初級向けの曲でしたが、2026年にホールで弾く用に再アレンジしたのでやや難しくなってしまいました。
-- 2024年にヒットした配信ドラマのラストシーンのイメージで作った曲です。天国で再会した二人がラベンダーの草原で躍るワルツ。難病で生死をさまよった彼女は、どちらか先に死んだほうは残されたほうが死ぬときに必ず迎えに来てね、そうすれば死も怖くないから、という約束をしていた。悲しげですが生涯を添い遂げた夫婦のハッピーエンドの曲です。
-- 長6度の和声メロディーが美しい曲です。ヴァイオリンにも向いています。ヴァイオリン・ピアノ二重奏にどうぞ。私は長短6度の響きがとても好きで他の曲でも度々出てきます。不協和音スレスレの、胸に刺さるような切ない金属的な響きの和音です。
-- ラベンダーの花言葉は「あなたを待っています」
-- [作曲者自身によるヘタクソな演奏をどうぞ :Drz](https://youtu.be/ZELrhw1eutg) 最後の1分のみ抜粋動画です。
-- <img src="lavenderfield.jpg" width="500px">
+  .about{background:var(--bg);}
+  .about-list{
+    list-style:none;
+    margin:0; padding:0;
+    color:var(--ink-soft);
+    font-size:1rem;
+  }
+  .about-list li{
+    position:relative;
+    padding-left:1.6rem;
+    margin-bottom:1.15rem;
+  }
+  .about-list li::before{
+    content:"❀";
+    position:absolute; left:0; top:0.05em;
+    color:var(--accent-soft);
+    font-size:0.95em;
+  }
+  .about-list a{white-space:nowrap;}
+  .recommend{
+    margin-top:2.2rem;
+    padding:1.4rem 1.6rem;
+    background:var(--accent-pale);
+    border-radius:14px;
+    font-size:0.98rem;
+    color:var(--ink);
+  }
+  .recommend strong{color:var(--accent);}
 
-### [OrganSoloNo4Passacalia.pdf](https://github.com/misuz/sheetmusic/)
-#### 第4番　オルガン独奏曲　変ニ長調・変ロ短調「海風とネモフィラの草原」 Organ Solo No.4/D-flat-major,B-flat-minor/Nemophila grassland in the sea breeze.
-- 2024年作曲
-- 難易度：☆☆（初級）
-- パイプオルガンが好きでパイプオルガン向きの曲を作ろうと思って作った曲。バロック調。パッサカリアはスペイン発祥の繰り返しの多い三拍子の舞踊曲で低音に主題がある曲。短い曲。
-- ネモフィラの花言葉は「可憐」「あなたを許す」。
+  /* ---------- Songs ---------- */
+  .songs{background:var(--bg-alt);}
+  .song-card{
+    background:var(--card);
+    border-radius:20px;
+    box-shadow:var(--shadow);
+    margin-bottom:2.6rem;
+    overflow:hidden;
+    display:grid;
+    grid-template-columns:300px 1fr;
+  }
+  .song-card.no-image{grid-template-columns:1fr;}
+  @media (max-width: 760px){
+    .song-card{grid-template-columns:1fr;}
+  }
+  .song-media{
+    position:relative;
+    background:linear-gradient(160deg, var(--accent-pale), #f7e9d7);
+    min-height:220px;
+  }
+  .song-media img{
+    width:100%; height:100%;
+    object-fit:cover;
+    min-height:220px;
+  }
+  .song-num{
+    position:absolute; top:14px; left:14px;
+    font-family:"Cormorant Garamond", serif;
+    font-style:italic;
+    font-size:2.4rem;
+    color:#fff;
+    text-shadow:0 2px 10px rgba(0,0,0,0.35);
+  }
+  .song-body{padding:2rem 2.2rem;}
+  .song-eyebrow{
+    font-family:"Cormorant Garamond", serif;
+    color:var(--accent);
+    letter-spacing:0.08em;
+    font-size:0.9rem;
+    margin-bottom:0.3rem;
+  }
+  .song-title-jp{
+    font-size:1.35rem;
+    font-weight:600;
+    margin:0 0 0.15rem;
+  }
+  .song-title-en{
+    font-family:"Cormorant Garamond", serif;
+    font-style:italic;
+    color:var(--ink-soft);
+    font-size:1.05rem;
+    margin:0 0 1rem;
+  }
+  .meta-row{
+    display:flex; flex-wrap:wrap; gap:0.6rem 1.4rem;
+    margin-bottom:1.1rem;
+    font-size:0.88rem;
+    color:var(--ink-soft);
+  }
+  .meta-row span{display:inline-flex; align-items:center; gap:0.35rem;}
+  .stars{color:var(--gold); letter-spacing:0.05em;}
+  .stars .dim{color:var(--line);}
+  .song-body p{
+    margin:0 0 0.9rem;
+    font-size:0.97rem;
+    color:var(--ink);
+  }
+  .flower-meaning{
+    display:inline-block;
+    margin-top:0.3rem;
+    padding:0.4rem 0.9rem;
+    background:var(--accent-pale);
+    color:var(--accent);
+    border-radius:999px;
+    font-size:0.85rem;
+  }
+  .song-links{
+    margin-top:1.2rem;
+    display:flex; flex-wrap:wrap; gap:0.7rem;
+  }
+  .song-links a{
+    border:1px solid var(--line);
+    border-bottom:1px solid var(--line);
+    padding:0.45rem 1rem;
+    border-radius:999px;
+    font-size:0.85rem;
+    background:var(--bg);
+  }
+  .song-links a::before{margin-right:0.4rem;}
+  .song-links a.pdf::before{content:"📄";}
+  .song-links a.play::before{content:"▶";}
+  .song-links a.story::before{content:"📖";}
+  .song-links a.link::before{content:"🔗";}
+  .song-links a:hover{background:var(--accent-pale); border-color:var(--accent-soft);}
 
-### [PianoSoloNo5Cismoll.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo5cismoll.pdf)
-#### 第5番　ピアノ独奏曲／嬰ハ短調「レインリリーの森」 Piano Solo No.5/Cis-moll/The Forest of Rainlily.
-- 2024年作曲
-- 難易度：☆☆☆（初中級・オクターブ多用、ウナコルダ（左ペダル）多用するので少し難しい）2025年5月の人生初めての発表会で弾いた曲です。
-- 嬰ハ短調は短調12調の中でも最も暗い、陰鬱、悲しい響きとされこれを主調とする曲はとても少ないとのことですがベートーヴェンやショパンが好んで使っています。
-- レインリリー（雨ユリ。正式名はゼフィランサス）は長い雨の後に一斉にユリに似た花を咲かせます。白い花に限りタマスダレという和名を持っています。
-- レインリリーの花言葉は「プラトニックラブ」「メッセージ」。彼岸花の仲間であることから、亡くなった愛する人からのメッセージ、という意味もあります。短6度の和声を多く使った、切ない響きの美しい曲です。
-- この曲をテーマにした[短編小説](https://note.com/seewheniseeyou/n/n96d4a6aaf813?sub_rt=share_pw)があります。
-- [作曲者自身によるヘタクソな演奏をどうぞ　:Drz](https://youtu.be/EXOdnixtUEI)
+  /* ---------- Bonus ---------- */
+  .bonus{background:var(--bg);}
+  .bonus-card{
+    max-width:640px; margin:0 auto;
+    background:var(--card);
+    border-radius:18px;
+    box-shadow:var(--shadow);
+    padding:2.2rem 2.4rem;
+    text-align:center;
+  }
+  .bonus-card h3{margin-top:0; color:var(--accent);}
 
-- <img src="forestofrainlily.png" width="500px">
- 
+  /* ---------- Footer ---------- */
+  footer{
+    background:#241d18;
+    color:#d8c9ba;
+    text-align:center;
+    padding:2.8rem 1.5rem;
+    font-size:0.88rem;
+    line-height:1.9;
+  }
+  footer a{color:#e6c9a8; border-color:rgba(230,201,168,0.35);}
+  footer a:hover{color:#fff;}
+  footer .credit{
+    margin-top:1rem;
+    font-family:"Cormorant Garamond", serif;
+    font-style:italic;
+    color:#a9998a;
+  }
 
-### [PianoSoloNo6Emoll.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo6Emoll.pdf)
-#### 第6番　ピアノ独奏曲／ホ短調「スターチスの丘」　Piano Solo No.6/E-moll/Statice blooming on the hills.
-- 2025年作曲
-- 難易度：☆☆☆☆（中級）
-- 短調ですがグルーブ感のあるかっこいい曲です。ゲーム音楽っぽい感じもあり（運動会のBGM？という意見も...）。
-- 6番、7番は同じ日に作曲したのでとても構成が似ています。6番は7番のための習作みたいな曲です。
-- スターチスは青や紫の小さな花をたくさんつけ、その華やかさから花束やドライフラワーの素材としてとても人気があります。とても丈夫な花で風に吹かれても散らずにいつまでも咲き続ける強さがあります。
-- スターチスの花言葉は「変わらぬ心」「永久不変」「途絶えぬ記憶」「永遠の愛」
+  /* ---------- Back to top ---------- */
+  .top-link{
+    display:block;
+    text-align:center;
+    margin-top:1rem;
+    font-size:0.85rem;
+    color:#a9998a;
+    border:none;
+  }
+</style>
+</head>
+<body>
 
+<header class="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-inner">
+    <div class="hero-kicker en">Modern Classic Piano Solo — Original Songs</div>
+    <h1>自作曲ピアノ楽譜　組曲「<span class="suite-name">花言葉</span>」全12曲</h1>
+    <p class="subtitle en">12 Words of Flowers — Sheet Music</p>
+    <div class="divider" style="margin-bottom:1.6rem;"></div>
+    <p class="hero-note">こちらに<a href="https://note.com/seewheniseeyou/n/n7da0275712bd?sub_rt=share_b" target="_blank" rel="noopener">簡単な解説</a>がありますので合わせてご覧ください</p>
+  </div>
+</header>
 
-### [PianoSoloNo7Fismoll.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo7Fismoll.pdf)
-#### 第7番　ピアノ独奏曲／嬰ヘ短調「クレマチス・アーマンディの城跡（じょうせき）」　Piano Solo No.7/Fis-moll/Castle ruins with Clematis Armandii.
-- 2025年作曲
-- 難易度：☆☆☆☆☆（上級・きちんと弾くにはショパンのエチュード並みに難しい曲ですが初級者の方は中盤以降の変奏部分を省略して弾いても良いと思います）
-- 古典派な感じのクラシックピアノ曲です。大ロンド形式の変奏曲。切ない響きの美しく激しい曲です。2025年7月に豊洲の大ホールで弾いた曲です。
-- クレマチスは蔓（つる）草の女王と呼ばれ、建物を覆い尽くすように蔓を伸ばし、大きな花をたくさん咲かせます。 この曲は楽譜が美しく、蔓草に覆われた城壁のように見えることから曲名となりました。
-- クレマチスの中でもアーマンディはとても細いツルから真っ白な大きくて立派な花を咲かせることから、内面の美しさ、精神の美、心の美しい人、心の中の美しい思い出、といった意味の花言葉を持っています。
-- 思い出の場所は失われてしまったけれど、美しい思い出として心に残っている。第5番「レインリリーの森」は今は亡き人を偲ぶ曲ですが、この曲は「今は無き場所」を偲ぶ曲です。この曲をテーマにした短編小説があります。 [海辺の観覧車](https://note.com/seewheniseeyou/n/n60c7e0fa7025)
+<section class="about">
+  <div class="wrap">
+    <div class="section-title">
+      <span class="en-label">About this Suite</span>
+      <h2>この楽譜集について</h2>
+    </div>
+    <ul class="about-list">
+      <li>クラシックに全く興味なかった私がクラシックピアノを弾くようになり、何百年も後の人達が自分の作品を弾き継いでくれるのってなんか素敵だなあと思って細々と作っていた曲を残すことにしました。目標は百年後のピアノ発表会で子供達が定番曲として弾いてくれるピアノソナタを一曲残すことです。花の名前を付けているのは、その花を見たときに曲を思い出してくれるといいなあという思いからです。曲のイメージにあった花言葉を持つ花を選んでいます。</li>
+      <li>ジャンル的には「現代クラシック」になるのかなと思いますが、前衛的な要素は全く無く作曲技法としてはバロックから古典派（ベートーヴェン時代）もしくはロマン派前期（ショパン時代）で、とても保守的な曲ばかりと思います。POPS曲も作ってきましたがクラシックにこだわっているのは百年単位で残る普遍性があるからです。</li>
+      <li>しっくりきていない部分があるので時々書き換えます。そういう意味では私が死んだ時が最終版（完成）ということに。</li>
+      <li>.sdxの拡張子は<a href="https://cm.kawai.jp/products/smz/" target="_blank" rel="noopener">KAWAIのスコアメーカーZERO</a>で、.msczの拡張子は<a href="https://musescore.org/ja" target="_blank" rel="noopener">MuseScore</a>で読み込むことができます。いずれも簡易的な自動演奏ができます。</li>
+      <li>コードネームは適当なのでたぶんいろいろ間違っていると思います。楽譜通りに弾かなければいけないというこだわりはありませんので自由にアレンジしてご利用ください。</li>
+      <li>実際にピアノを弾きながら作曲しているので、作曲当時の私の演奏技量に応じた編曲になっています。つまり後半へ行くほど演奏の難易度は上がります。難易度の☆は個人的なレベル表ですので正しくないかもしれません。</li>
+      <li>本ページのイメージイラスト（写真）はAIで独自に生成したものです。</li>
+      <li>pdfのリンクをクリックして楽譜の右上にある「…」からPDFファイルをダウンロードできます。コンビニ等で印刷できます。</li>
+      <li>JASRAC未登録ですので許諾不要です。比較的初級者で弾けますが弾き映えする曲だと思いますのでピアノ発表会などで無償で自由にご利用ください。</li>
+    </ul>
+    <div class="recommend">
+      <strong>どれか一曲だけ選ぶなら</strong> — 第5番「レインリリーの森」がおすすめです。初〜中級で弾けて、心に残る切なくて美しい曲です。1番、3番、8番も簡単に弾けて美しい曲です。腕に自信のある方は第7、9、10、12番あたりをどうぞ。
+    </div>
+  </div>
+</section>
 
-- <img src="castleruinsofclematisarmandii.png" width="500px">
+<section class="songs" id="songs">
+  <div class="wrap-wide">
+    <div class="section-title">
+      <span class="en-label">The Twelve Pieces</span>
+      <h2>全12曲</h2>
+    </div>
 
-### [PianoSoloNo8Gdur.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo8Gdur.pdf)
-#### 第8番　ピアノ独奏曲／ホ短調「ウエストリンギアの花冠」　Piano Solo No.8/G-dur,E-moll/A corolla of Westringia.
-- 2025年作曲
-- 難易度：☆☆☆（初中級）一見音数が多く見えますが左手伴奏が簡単なので初級でも弾けると思います。
-- 寂しさと切なさを感じさせる穏やかで優しい曲です。クラシック感はなく現代風の曲で、ほとんどの部分がホ短調基調ですが最終的には平行調のト長調で終わります。
-- ウエストリンギアはローズマリーに似ていますが、香りがまったくないことから「飾り気のない、誠実な」という意味を与えられています。れんげ草のように円形に編み込んで花冠（カロラ）を作ることができます。
-- ウエストリンギアの花言葉は「真実の愛」
+    <!-- No.1 -->
+    <article class="song-card">
+      <div class="song-media"><span class="song-num en">01</span></div>
+      <div class="song-body">
+        <div class="song-eyebrow en">Piano Solo No.1 · D-major</div>
+        <h3 class="song-title-jp">「リラの咲く湖」</h3>
+        <p class="song-title-en en">Lakeside with Bloom of Lilas</p>
+        <div class="meta-row">
+          <span>作曲：1990年頃</span>
+          <span class="stars">★★<span class="dim">☆☆☆</span> 初級</span>
+        </div>
+        <p>清楚で可憐で壮大なイメージ。大学生のころにピアノの良さに気づき、初めて作曲したピアノ曲。ピアノを習ったことがなくまだたいして弾けなかったので鍵盤で探した音を自動演奏専用機（シーケンサー）に数値入力して作曲した曲です。</p>
+        <p>観光案内システムに組み込まれ、とある湖畔の街の役所ロビーでBGMとして長い間流していたことがあります。</p>
+        <span class="flower-meaning">リラ（ライラック）の花言葉：「思い出」「友情」</span>
+        <div class="song-links">
+          <a class="pdf" href="https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo1Dmajor.pdf" target="_blank" rel="noopener">楽譜PDF</a>
+        </div>
+      </div>
+    </article>
 
-- <img src="westringia.png" width="500px">
+    <!-- No.2 -->
+    <article class="song-card">
+      <div class="song-media"><span class="song-num en">02</span></div>
+      <div class="song-body">
+        <div class="song-eyebrow en">Piano Solo No.2 · D-major</div>
+        <h3 class="song-title-jp">「フューシャのイヤリング」</h3>
+        <p class="song-title-en en">Earrings of Fuchsia</p>
+        <div class="meta-row">
+          <span>作曲：2005年</span>
+          <span class="stars">★★<span class="dim">☆☆☆</span> 初級</span>
+        </div>
+        <p>あるソフトウェアのBGMとして作曲した曲です。フクシア（フューシャ）はフューシャピンクという色の名称にもなっている通り、鮮やかなえんじ色に近いピンクの花。花の形がイヤリングに似ていることから、幼い子供達が耳飾りにして遊んだといわれています。上品で穏やかで平和な可愛らしい曲です。</p>
+        <span class="flower-meaning">フクシアの花言葉：「つつましい愛」「上品」</span>
+        <div class="song-links">
+          <a class="pdf" href="https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo2Dmajor.pdf" target="_blank" rel="noopener">楽譜PDF</a>
+        </div>
+      </div>
+    </article>
 
-### [PianoSoloNo9.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo9.pdf)
-#### 第9番　ピアノ独奏曲／嬰ハ短調「リナリアが咲く時」　Piano Solo No.9/When Linaria flowers bloom.
-- 2025年作曲
-- 難易度：☆☆☆☆（中級）
-- 今までと作風が変わってクラシック的な響きを求めて試行した習作。メロディも伴奏もとてもクラシック的な曲で、コード進行や音の響きがとても複雑。嬰ハ短調の暗い響きで始まりますが、たびたび転調し、本能のままに転調していったら最後はハ長調で終わります。
-- リナリアの花言葉は「この恋に気づいて」「幻想」「乱れる乙女心」。複雑な心を映す複雑な曲ですが、弾いてみると意外とノリが良く、メロディーも覚えやすいアップテンポのワルツです。（8分の6拍子なので厳密にはワルツではないですが）
+    <!-- No.3 -->
+    <article class="song-card">
+      <div class="song-media"><img src="lavenderfield.jpg" alt="ラベンダーフィールドの約束" loading="lazy"><span class="song-num en">03</span></div>
+      <div class="song-body">
+        <div class="song-eyebrow en">Piano Solo No.3 · E-moll · Waltz</div>
+        <h3 class="song-title-jp">ワルツ「ラベンダーフィールドの約束」</h3>
+        <p class="song-title-en en">A Promise in the Lavender Field</p>
+        <div class="meta-row">
+          <span>作曲：2024年（2026年変奏曲版改訂）</span>
+          <span class="stars">★★★<span class="dim">☆☆</span> 中級</span>
+        </div>
+        <p>2024年にヒットした配信ドラマのラストシーンのイメージで作った曲です。天国で再会した二人がラベンダーの草原で躍るワルツ。難病で生死をさまよった彼女は、どちらか先に死んだほうは残されたほうが死ぬときに必ず迎えに来てね、そうすれば死も怖くないから、という約束をしていた。悲しげですが生涯を添い遂げた夫婦のハッピーエンドの曲です。</p>
+        <p>長6度の和声メロディーが美しい曲です。ヴァイオリンにも向いています。ヴァイオリン・ピアノ二重奏にどうぞ。中間部がやや難しいので弾けない音は省略しても良いと思います。</p>
+        <span class="flower-meaning">ラベンダーの花言葉：「あなたを待っています」</span>
+        <div class="song-links">
+          <a class="pdf" href="https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo3WaltzEmoll.pdf" target="_blank" rel="noopener">楽譜PDF</a>
+          <a class="play" href="https://youtu.be/ZELrhw1eutg" target="_blank" rel="noopener">作曲者自身の演奏（抜粋）</a>
+        </div>
+      </div>
+    </article>
 
-- <img src="linaria.png" width="500px">
+    <!-- No.4 -->
+    <article class="song-card">
+      <div class="song-media"><span class="song-num en">04</span></div>
+      <div class="song-body">
+        <div class="song-eyebrow en">Organ Solo No.4 · D-flat-major, B-flat-minor</div>
+        <h3 class="song-title-jp">「海風とネモフィラの草原」</h3>
+        <p class="song-title-en en">Nemophila Grassland in the Sea Breeze</p>
+        <div class="meta-row">
+          <span>作曲：2024年</span>
+          <span class="stars">★★<span class="dim">☆☆☆</span> 初級</span>
+        </div>
+        <p>パイプオルガンが好きでパイプオルガン向きの曲を作ろうと思って作った曲。バロック調。パッサカリアはスペイン発祥の繰り返しの多い三拍子の舞踊曲で低音に主題がある曲。短い曲です。</p>
+        <span class="flower-meaning">ネモフィラの花言葉：「可憐」「あなたを許す」</span>
+        <div class="song-links">
+          <a class="pdf" href="https://github.com/misuz/sheetmusic/" target="_blank" rel="noopener">楽譜PDF</a>
+        </div>
+      </div>
+    </article>
 
-### [PianoSoloNo10.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo10.pdf)
-#### 第10番　ピアノ独奏曲／ニ長調「自由の島、ピエリスの花」　Requiem for Liberty-Island the girl with Pieris flowers.
-- 2025年作曲
-- 難易度：☆☆☆☆（中級）ゆったりした曲ですが音のバランスを取るのが難しく、綺麗に演奏するには技術のいる曲です。
-- 2025年春、[「お嬢さん」の愛称で多くの人に愛されたリバティーアイランドという名馬](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%90%E3%83%86%E3%82%A3%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89)がいました。乗馬中の事故で大怪我を負いましたが騎手が安全に下馬するまで痛みに耐え続け、そしてその場で亡くなりました。その優しいエピソードにちなんで作った鎮魂歌です。ピエリスは「献身」「二人で旅をしましょう」という彼女（リバティーアイランド）にぴったりな素敵な花言葉を持っています。
-- ピエリスは通称Japanese Andromeda、和名をアセビ（馬酔木）といい、日本固有種の花木です。薄いピンク色のスズランに似た花をつける低木であることから別名Lily-of-the-valley Bush（スズランの木）ともいいます。
-- 約8分の長い曲です。途中平行調のロ短調に転調し最後は変格終止（Ⅳ→Ⅰ）いわゆる「アーメン終止」で終わります。明るい長調基調ですが深い悲しみと感謝を感じさせる曲です。
+    <!-- No.5 -->
+    <article class="song-card">
+      <div class="song-media"><img src="forestofrainlily.png" alt="レインリリーの森" loading="lazy"><span class="song-num en">05</span></div>
+      <div class="song-body">
+        <div class="song-eyebrow en">Piano Solo No.5 · Cis-moll</div>
+        <h3 class="song-title-jp">「レインリリーの森」<span style="font-size:0.75rem; color:var(--accent); border:1px solid var(--accent-soft); border-radius:999px; padding:0.15rem 0.6rem; margin-left:0.5rem; font-family:'Cormorant Garamond',serif;">おすすめ ★</span></h3>
+        <p class="song-title-en en">The Forest of Rainlily</p>
+        <div class="meta-row">
+          <span>作曲：2024年</span>
+          <span class="stars">★★★<span class="dim">☆☆</span> 初中級</span>
+        </div>
+        <p>嬰ハ短調は短調12調の中でも最も暗い、陰鬱、悲しい響きとされこれを主調とする曲はとても少ないとのことですがベートーヴェンやショパンが好んで使っています。オクターブ多用、ウナコルダ（左ペダル）多用するので少し難しいですが、2025年5月の人生初めての発表会で弾いた曲です。</p>
+        <p>レインリリー（雨ユリ。正式名はゼフィランサス）は長い雨の後に一斉にユリに似た花を咲かせます。白い花に限りタマスダレという和名を持っています。短6度の和声を多く使った、切ない響きの美しい曲です。</p>
+        <span class="flower-meaning">レインリリーの花言葉：「プラトニックラブ」「メッセージ」（彼岸花の仲間であることから、亡くなった愛する人からのメッセージ、という意味も）</span>
+        <div class="song-links">
+          <a class="pdf" href="https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo5cismoll.pdf" target="_blank" rel="noopener">楽譜PDF</a>
+          <a class="play" href="https://youtu.be/EXOdnixtUEI" target="_blank" rel="noopener">作曲者自身の演奏</a>
+          <a class="story" href="https://note.com/seewheniseeyou/n/n96d4a6aaf813?sub_rt=share_pw" target="_blank" rel="noopener">この曲をテーマにした短編小説</a>
+        </div>
+      </div>
+    </article>
 
-- <img src="pieris.jpg" width="500px">
-- 馬酔木の花（実写）
+    <!-- No.6 -->
+    <article class="song-card">
+      <div class="song-media"><span class="song-num en">06</span></div>
+      <div class="song-body">
+        <div class="song-eyebrow en">Piano Solo No.6 · E-moll</div>
+        <h3 class="song-title-jp">「スターチスの丘」</h3>
+        <p class="song-title-en en">Statice Blooming on the Hills</p>
+        <div class="meta-row">
+          <span>作曲：2025年</span>
+          <span class="stars">★★★★<span class="dim">☆</span> 中級</span>
+        </div>
+        <p>短調ですがグルーブ感のあるかっこいい曲です。ゲーム音楽っぽい感じもあり（運動会のBGM？という意見も…）。6番、7番は同じ日に作曲したのでとても構成が似ています。6番は7番のための習作みたいな曲です。</p>
+        <p>スターチスは青や紫の小さな花をたくさんつけ、その華やかさから花束やドライフラワーの素材としてとても人気があります。とても丈夫な花で風に吹かれても散らずにいつまでも咲き続ける強さがあります。</p>
+        <span class="flower-meaning">スターチスの花言葉：「変わらぬ心」「永久不変」「途絶えぬ記憶」「永遠の愛」</span>
+        <div class="song-links">
+          <a class="pdf" href="https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo6Emoll.pdf" target="_blank" rel="noopener">楽譜PDF</a>
+        </div>
+      </div>
+    </article>
 
-### [OrganSoloNo11.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo11.pdf)
-#### 第11番　オルガン独奏曲／ニ短調「ローズリリーの鐘楼」Church bell of Roselily.　
-- 2025年作曲
-- 難易度：☆☆（初級）パイプオルガンのための讃美歌風の曲です。和声の勉強のために作った約2分の短い曲です。最後はいわゆるピカルディ終止（同主長調のI）で終わります。
-- ローズリリーは八重咲の豪華なユリで、特にアイシャやルドウィナといった品種はとても美しく「威厳」「純粋」「純潔」といった意味を持ちます。聖母マリア様の象徴とされカトリック教会に縁の深い花です。
+    <!-- No.7 -->
+    <article class="song-card">
+      <div class="song-media"><img src="castleruinsofclematisarmandii.png" alt="クレマチス・アーマンディの城跡" loading="lazy"><span class="song-num en">07</span></div>
+      <div class="song-body">
+        <div class="song-eyebrow en">Piano Solo No.7 · Fis-moll</div>
+        <h3 class="song-title-jp">「クレマチス・アーマンディの城跡（じょうせき）」</h3>
+        <p class="song-title-en en">Castle Ruins with Clematis Armandii</p>
+        <div class="meta-row">
+          <span>作曲：2025年</span>
+          <span class="stars">★★★★★ 上級</span>
+        </div>
+        <p>古典派な感じのクラシックピアノ曲です。大ロンド形式の変奏曲。切ない響きの美しく激しい曲です。2025年7月に豊洲の大ホールで弾いた曲です。きちんと弾くにはショパンのエチュード並みに難しい曲ですが、初級者の方は中盤以降の変奏部分を省略して弾いても良いと思います。</p>
+        <p>クレマチスは蔓（つる）草の女王と呼ばれ、建物を覆い尽くすように蔓を伸ばし、大きな花をたくさん咲かせます。この曲は楽譜が美しく、蔓草に覆われた城壁のように見えることから曲名となりました。</p>
+        <p>思い出の場所は失われてしまったけれど、美しい思い出として心に残っている。第5番「レインリリーの森」は今は亡き人を偲ぶ曲ですが、この曲は「今は無き場所」を偲ぶ曲です。</p>
+        <span class="flower-meaning">クレマチス・アーマンディの花言葉：「内面の美しさ」「精神の美」「心の美しい人」「心の中の美しい思い出」</span>
+        <div class="song-links">
+          <a class="pdf" href="https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo7Fismoll.pdf" target="_blank" rel="noopener">楽譜PDF</a>
+          <a class="story" href="https://note.com/seewheniseeyou/n/n60c7e0fa7025" target="_blank" rel="noopener">短編小説「海辺の観覧車」</a>
+        </div>
+      </div>
+    </article>
 
-- <img src="roselily.png" width="500px">
+    <!-- No.8 -->
+    <article class="song-card">
+      <div class="song-media"><img src="westringia.png" alt="ウエストリンギアの花冠" loading="lazy"><span class="song-num en">08</span></div>
+      <div class="song-body">
+        <div class="song-eyebrow en">Piano Solo No.8 · G-dur, E-moll</div>
+        <h3 class="song-title-jp">「ウエストリンギアの花冠」</h3>
+        <p class="song-title-en en">A Corolla of Westringia</p>
+        <div class="meta-row">
+          <span>作曲：2025年</span>
+          <span class="stars">★★★<span class="dim">☆☆</span> 初中級</span>
+        </div>
+        <p>寂しさと切なさを感じさせる穏やかで優しい曲です。クラシック感はなく現代風の曲で、ほとんどの部分がホ短調基調ですが最終的には平行調のト長調で終わります。一見音数が多く見えますが左手伴奏が簡単なので初級でも弾けると思います。</p>
+        <p>ウエストリンギアはローズマリーに似ていますが、香りがまったくないことから「飾り気のない、誠実な」という意味を与えられています。れんげ草のように円形に編み込んで花冠（カロラ）を作ることができます。</p>
+        <span class="flower-meaning">ウエストリンギアの花言葉：「真実の愛」</span>
+        <div class="song-links">
+          <a class="pdf" href="https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo8Gdur.pdf" target="_blank" rel="noopener">楽譜PDF</a>
+        </div>
+      </div>
+    </article>
 
-### [PianoSoloNo12.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo12.pdf)
-#### 第12番　ピアノ独奏曲／ニ短調バラード「花の記憶の抒情詩（バラード）」Ballard on memories of flowers.
-- 2025年作曲
-- 難易度：☆☆☆☆☆（上級）派手な曲ですが弾きやすく、見た目ほど難しくないと思います。
-- 劇的な変化を伴って物語のように場面が展開していく長い曲（バラード形式）。約11分あります。
-- 11番のコード進行を発展させた構成になっていますが第1番から11番までの曲の要素が小さくあちらこちらに散りばめられており、まさに組曲の最後にふさわしい曲になっています。次々と転調してゆき、最後は主調であるニ短調に戻って終わります。
-- 最後の作品なので、特定の花の名前は付けませんでした。人それぞれ思い出の花があると思いますので、それを思い浮かべながら弾いて（聴いて）ほしい曲です。
+    <!-- No.9 -->
+    <article class="song-card">
+      <div class="song-media"><img src="linaria.png" alt="リナリアが咲く時" loading="lazy"><span class="song-num en">09</span></div>
+      <div class="song-body">
+        <div class="song-eyebrow en">Piano Solo No.9 · Cis-moll</div>
+        <h3 class="song-title-jp">「リナリアが咲く時」</h3>
+        <p class="song-title-en en">When Linaria Flowers Bloom</p>
+        <div class="meta-row">
+          <span>作曲：2025年</span>
+          <span class="stars">★★★★<span class="dim">☆</span> 中級</span>
+        </div>
+        <p>今までと作風が変わってクラシック的な響きを求めて試行した習作。メロディも伴奏もとてもクラシック的な曲で、コード進行や音の響きがとても複雑。嬰ハ短調の暗い響きで始まりますが、たびたび転調し、本能のままに転調していったら最後はハ長調で終わります。</p>
+        <p>複雑な心を映す複雑な曲ですが、弾いてみると意外とノリが良く、メロディーも覚えやすいアップテンポのワルツです（8分の6拍子なので厳密にはワルツではないですが）。</p>
+        <span class="flower-meaning">リナリアの花言葉：「この恋に気づいて」「幻想」「乱れる乙女心」</span>
+        <div class="song-links">
+          <a class="pdf" href="https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo9.pdf" target="_blank" rel="noopener">楽譜PDF</a>
+        </div>
+      </div>
+    </article>
 
-- <img src="flowers.png" width="500px">
+    <!-- No.10 -->
+    <article class="song-card">
+      <div class="song-media"><img src="pieris.jpg" alt="自由の島、ピエリスの花" loading="lazy"><span class="song-num en">10</span></div>
+      <div class="song-body">
+        <div class="song-eyebrow en">Piano Solo No.10 · D-major</div>
+        <h3 class="song-title-jp">「自由の島、ピエリスの花」</h3>
+        <p class="song-title-en en">Requiem for Liberty-Island, the Girl with Pieris Flowers</p>
+        <div class="meta-row">
+          <span>作曲：2025年</span>
+          <span class="stars">★★★★<span class="dim">☆</span> 中級</span>
+        </div>
+        <p>2025年春、「お嬢さん」の愛称で多くの人に愛された<a href="https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%90%E3%83%86%E3%82%A3%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89" target="_blank" rel="noopener">リバティーアイランドという名馬</a>がいました。乗馬中の事故で大怪我を負いましたが騎手が安全に下馬するまで痛みに耐え続け、そしてその場で亡くなりました。その優しいエピソードにちなんで作った鎮魂歌です。</p>
+        <p>ピエリスは通称Japanese Andromeda、和名をアセビ（馬酔木）といい、日本固有種の花木です。薄いピンク色のスズランに似た花をつける低木であることから別名Lily-of-the-valley Bushともいいます。約8分の長い曲で、途中平行調のロ短調に転調し最後は変格終止（Ⅳ→Ⅰ）いわゆる「アーメン終止」で終わります。明るい長調基調ですが深い悲しみと感謝を感じさせる曲です。ゆったりした曲ですが音のバランスを取るのが難しく、綺麗に演奏するには技術のいる曲です。</p>
+        <span class="flower-meaning">ピエリスの花言葉：「献身」「二人で旅をしましょう」</span>
+        <div class="song-links">
+          <a class="pdf" href="https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo10.pdf" target="_blank" rel="noopener">楽譜PDF</a>
+        </div>
+      </div>
+    </article>
 
----
-### おまけ
+    <!-- No.11 -->
+    <article class="song-card">
+      <div class="song-media"><img src="roselily.png" alt="ローズリリーの鐘楼" loading="lazy"><span class="song-num en">11</span></div>
+      <div class="song-body">
+        <div class="song-eyebrow en">Organ Solo No.11 · D-moll</div>
+        <h3 class="song-title-jp">「ローズリリーの鐘楼」</h3>
+        <p class="song-title-en en">Church Bell of Roselily</p>
+        <div class="meta-row">
+          <span>作曲：2025年</span>
+          <span class="stars">★★<span class="dim">☆☆☆</span> 初級</span>
+        </div>
+        <p>パイプオルガンのための讃美歌風の曲です。和声の勉強のために作った約2分の短い曲です。最後はいわゆるピカルディ終止（同主長調のI）で終わります。</p>
+        <p>ローズリリーは八重咲の豪華なユリで、特にアイシャやルドウィナといった品種はとても美しく「威厳」「純粋」「純潔」といった意味を持ちます。聖母マリア様の象徴とされカトリック教会に縁の深い花です。</p>
+        <span class="flower-meaning">ローズリリーの花言葉：「威厳」「純粋」「純潔」</span>
+        <div class="song-links">
+          <a class="pdf" href="https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo11.pdf" target="_blank" rel="noopener">楽譜PDF</a>
+        </div>
+      </div>
+    </article>
 
-### VOCALOID習作
-- 初めてVOCALOIDを使用してみたJ-POPSです。DAW Logic Proもこれが初めてなので稚拙なところはご容赦ください。
-- 若い頃に作曲自演していたバンド向け女性ボーカル曲がたくさんあるので、いずれDAW入力して載せていきたいと思います...
-- (VOCALOID習作) 「雨の中のslight light」 https://youtu.be/JHH6X3cWUbE
+    <!-- No.12 -->
+    <article class="song-card">
+      <div class="song-media"><img src="flowers.png" alt="花の記憶の抒情詩（バラード）" loading="lazy"><span class="song-num en">12</span></div>
+      <div class="song-body">
+        <div class="song-eyebrow en">Piano Solo No.12 · D-moll · Ballad</div>
+        <h3 class="song-title-jp">バラード「花の記憶の抒情詩（バラード）」</h3>
+        <p class="song-title-en en">Ballade on Memories of Flowers</p>
+        <div class="meta-row">
+          <span>作曲：2025年</span>
+          <span class="stars">★★★★★ 上級</span>
+        </div>
+        <p>劇的な変化を伴って物語のように場面が展開していく長い曲（バラード形式）。約11分あります。派手な曲ですが弾きやすく、見た目ほど難しくないと思います。</p>
+        <p>11番のコード進行を発展させた構成になっていますが第1番から11番までの曲の要素が小さくあちらこちらに散りばめられており、まさに組曲の最後にふさわしい曲になっています。次々と転調してゆき、最後は主調であるニ短調に戻って終わります。</p>
+        <p>最後の作品なので、特定の花の名前は付けませんでした。人それぞれ思い出の花があると思いますので、それを思い浮かべながら弾いて（聴いて）ほしい曲です。</p>
+        <div class="song-links">
+          <a class="pdf" href="https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo12.pdf" target="_blank" rel="noopener">楽譜PDF</a>
+        </div>
+      </div>
+    </article>
 
+  </div>
+</section>
 
+<section class="bonus">
+  <div class="section-title">
+    <span class="en-label">Extra Track</span>
+    <h2>おまけ</h2>
+  </div>
+  <div class="bonus-card">
+    <h3>VOCALOID習作</h3>
+    <p>初めてVOCALOIDを使用してみたJ-POPSです。DAW Logic Proもこれが初めてなので稚拙なところはご容赦ください。若い頃に作曲自演していたバンド向け女性ボーカル曲がたくさんあるので、いずれDAW入力して載せていきたいと思います…</p>
+    <p style="margin-bottom:0;"><a href="https://youtu.be/JHH6X3cWUbE" target="_blank" rel="noopener">「雨の中のslight light」を聴く ▶</a></p>
+  </div>
+</section>
+
+<footer>
+  <p>本ページのイメージイラスト（写真）はAIで独自に生成したものです。JASRAC未登録ですので許諾不要です。ピアノ発表会などで無償で自由にご利用ください。</p>
+  <p>楽譜リポジトリ：<a href="https://github.com/misuz/sheetmusic" target="_blank" rel="noopener">github.com/misuz/sheetmusic</a></p>
+  <div class="credit en">Suite “Words of Flowers” — 12 Original Piano &amp; Organ Solos</div>
+  <a class="top-link" href="#">▲ TOP へ戻る</a>
+</footer>
+
+</body>
+</html>
