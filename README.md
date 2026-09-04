@@ -2,7 +2,8 @@
 ### Modern Classic Piano Solo Original Songs - 12 Words of Flowers - Sheet Music 
 <img src="flowers.png" width="500px">
 
-- [こちらに簡単な解説](https://note.com/seewheniseeyou/n/n7da0275712bd?sub_rt=share_b)がありますので合わせてご覧いただけると嬉しいです。
+- [公開用ページ https://misuz.github.io/sheetmusic/](https://misuz.github.io/sheetmusic/)
+- [こちらに簡単な解説 note](https://note.com/seewheniseeyou/n/n7da0275712bd?sub_rt=share_b)がありますので合わせてご覧いただけると嬉しいです。
 - クラシックに全く興味なかった私がクラシックピアノを弾くようになり、何百年も後の人達が自分の作品を弾き継いでくれるのってなんか素敵だなあと思って細々と作っていた曲を残すことにしました。目標は百年後のピアノ発表会で子供達が定番曲として弾いてくれるピアノソナタを一曲残すことです。花の名前を付けているのは、その花を見たときに曲を思い出してくれるといいなあという思いからです。曲のイメージにあった花言葉を持つ花を選んでいます。
 - ジャンル的には「現代クラシック」になるのかなと思いますが、前衛的な要素は全く無く作曲技法としてはバロックから古典派（ベートーヴェン時代）もしくはロマン派前期（ショパン時代）で、とても保守的な曲ばかりと思います。POPS曲も作ってきましたがクラシックにこだわっているのは百年単位で残る普遍性があるからです。
 - どれか一曲ということであれば[第5番「レインリリーの森」](https://github.com/misuz/sheetmusic?tab=readme-ov-file#pianosolono5cismollpdf)をお勧めします。初〜中級で弾けて、心に残る切なくて美しい曲です。1番、3番、8番も簡単に弾けて美しい曲です。腕に自信のある方は第7、9、10、12番あたりをどうぞ。
