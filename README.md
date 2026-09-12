@@ -23,7 +23,7 @@
 - 清楚で可憐で壮大なイメージ。大学生のころにピアノの良さに気づき、初めて作曲したピアノ曲。ピアノを習ったことがなくまだたいして弾けなかったので鍵盤で探した音を自動演奏専用機（シーケンサー）に数値入力して作曲した曲です。
 - 観光案内システムに組み込まれ、とある湖畔の街の役所ロビーでBGMとして長い間流していたことがあります。
 - リラはライラックの別名。ライラックの花言葉は「思い出」「友情」。北海道の花。
-- [PCでの試奏音声ファイル](PianoSoloNo1DMajor.mp3)　MP3ファイルです。ダウンロードして再生してください。
+- [PCでの試奏音声ファイル](PianoSoloNo1Dmajor.mp3)　MP3ファイルです。ダウンロードして再生してください。
 - <img src="lila.jpg" width="500px">
 
 ### [PianoSoloNo2Dmajor.pdf](https://github.com/misuz/sheetmusic/blob/main/PianoSoloNo2Dmajor.pdf)
